@@ -1,5 +1,7 @@
 ## Migrating Infrastructure to Microsoft  Azure using Cloud Adoption Framework (CAF)
 
+#### Framework, Tools, Architecure
+___
 
 [Azure Migrate - Common questions](https://learn.microsoft.com/azure/migrate/common-questions-server-migration?WT.mc_id=AZ-MVP-5002880 ) 
 
@@ -58,8 +60,6 @@ ___
 [Azure Migrate - Web apps](https://learn.microsoft.com/azure/migrate/tutorial-migrate-webapps?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Migrate: Web Apps Assesment](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-webapps-assessment-calculation)
-
-
 
 ---
 [Azure Blueprints](https://learn.microsoft.com/azure/governance/blueprints/overview?WT.mc_id=AZ-MVP-5002880)

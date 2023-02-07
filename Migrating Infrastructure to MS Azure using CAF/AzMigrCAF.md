@@ -40,8 +40,6 @@ https://docs.microsoft.com/azure/dms/resource-scenario-status?WT.mc_id=AZ-MVP-50
 
 [Azure Databox Service](https://learn.microsoft.com/azure/vmware-cloudsimple/migration-using-azure-data-box?WT.mc_id=AZ-MVP-5002880)
 
-----
-
 [Azure Governance Visualizer (GitHub)](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)
 
 [Azure Policy](https://learn.microsoft.com/azure/governance/policy/overview?WT.mc_id=AZ-MVP-5002880)

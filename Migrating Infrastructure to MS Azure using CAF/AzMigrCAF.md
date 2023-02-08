@@ -37,8 +37,7 @@ ___
 
 [Azure Database Migration - pricing](https://azure.microsoft.com/pricing/details/database-migration/?WT.mc_id=AZ-MVP-5002880#pricing)
 
-[Status of migration scenarios supported by Azure Database Migration Service](
-https://learn.microsoft.com/azure/dms/resource-scenario-status?WT.mc_id=AZ-MVP-5002880)
+[Status of migration scenarios supported by Azure Database Migration Service](https://learn.microsoft.com/azure/dms/resource-scenario-status?WT.mc_id=AZ-MVP-5002880)
 
 [Azure SQL migration extension for Azure Data Studio](https://learn.microsoft.com/sql/azure-data-studio/extensions/azure-sql-migration-extension?WT.mc_id=AZ-MVP-5002880)
 

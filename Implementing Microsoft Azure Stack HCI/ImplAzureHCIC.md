@@ -7,6 +7,8 @@ ___
 
 [Azure Stack HCI Solutions](https://aka.ms/find-azure-stack-hci-solutions)
 
+[Overview of Azure Arc](https://learn.microsoft.com/azure/azure-arc/overview?WT.mc_id=AZ-MVP-5002880)
+
 [Azure Arc Community Meetup](https://www.youtube.com/watch?v=n1pC3soUI7w )
 
 [Azure Arc Jumpstart documentation](https://github.com/microsoft/azure_arc?WT.mc_id=AZ-MVP-5002880)
@@ -55,3 +57,18 @@ ___
 [GitHub: DiskSpd - storage performance tool](https://github.com/Microsoft/diskspd?WT.mc_id=AZ-MVP-5002880)
 
 ### Day 3
+
+[Physical network requirements for Azure Stack HCI](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/physical-network-requirements?WT.mc_id=AZ-MVP-5002880?tabs=20-21H2%2C20-21H2reqs)
+
+[Training: Introduction to Azure Stack HCI core technologies](https://learn.microsoft.com/en-us/training/modules/azure-stack-hci-technologies?WT.mc_id=AZ-MVP-5002880)
+
+[Software Defined Networking (SDN)](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/software-defined-networking?WT.mc_id=AZ-MVP-5002880)
+
+[GitHub: Microsoft Software Defined Networking (SDN)]( https://github.com/microsoft/SDN?WT.mc_id=AZ-MVP-5002880)
+
+[Datacenter Firewall functionality in Software-Defined Networking (SDN)](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/datacenter-firewall-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Software Load Balancer (SLB) for Software Defined Networking (SDN)](https://learn.microsoft.comazure-stack/hci/concepts/software-load-balancer?WT.mc_id=AZ-MVP-5002880)
+
+[Remote Access Service (RAS) Gateway for Software Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/gateway-overview?WT.mc_id=AZ-MVP-5002880)
+

@@ -1,6 +1,7 @@
 ## Implementing Microsoft Azure Stack HCI
 
-#### Framework, Tools, Architecure links
+#### Documentation, Framework, Tools, Architecure, Training links
+
 ___
 
 ### Day 1
@@ -16,7 +17,6 @@ ___
 [Create Hyper-V VHD Set files](https://learn.microsoft.com/windows-server/virtualization/hyper-v/manage/create-vhdset-file?WT.mc_id=AZ-MVP-5002880)
 
 [Windows Admin Center (WAC)](https://docs.microsoft.com/windows-server/manage/windows-admin-center/overview?WT.mc_id=AZ-MVP-5002880)
-
 
 [What's New for Azure Stack HCI at Microsoft Ignite 2022](https://www.youtube.com/watch?v=fub8DWChUIM)
 
@@ -71,4 +71,3 @@ ___
 [Software Load Balancer (SLB) for Software Defined Networking (SDN)](https://learn.microsoft.comazure-stack/hci/concepts/software-load-balancer?WT.mc_id=AZ-MVP-5002880)
 
 [Remote Access Service (RAS) Gateway for Software Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/gateway-overview?WT.mc_id=AZ-MVP-5002880)
-

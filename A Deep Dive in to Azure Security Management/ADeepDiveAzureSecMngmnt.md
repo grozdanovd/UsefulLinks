@@ -62,51 +62,51 @@ ___
 
 [Select a Defender for Servers plan](https://learn.microsoft.com/azure/defender-for-cloud/plan-defender-for-servers-select-plan?WT.mc_id=ES-MVP-5002880)
 
-[Quickstart: Connect your AWS accounts to Microsoft Defender for Cloud](https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-aws?WT.mc_id=ES-MVP-5002880?pivots=env-settings)
+[Quick-start: Connect your AWS accounts to Microsoft Defender for Cloud](https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-aws?WT.mc_id=ES-MVP-5002880?pivots=env-settings)
 
-[Quickstart: Connect your GCP projects to Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp?WT.mc_id=ES-MVP-5002880?pivots=env-settings)
+[Quick-start: Connect your GCP projects to Microsoft Defender for Cloud](https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-gcp?WT.mc_id=ES-MVP-5002880?pivots=env-settings)
 
-[Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint?WT.mc_id=ES-MVP-5002880)
+[Microsoft Defender for Endpoint](https://www.microsoft.com/security/business/endpoint-security/microsoft-defender-endpoint?WT.mc_id=ES-MVP-5002880)
 
-[Microsoft Defender for Endpoint (Microsoft Learn)](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?WT.mc_id=ES-MVP-5002880)
+[Microsoft Defender for Endpoint (Microsoft Learn)](https://learn.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?WT.mc_id=ES-MVP-5002880)
 
-[Defender for Cloud's integrated Qualys vulnerability scanner for Azure and hybrid machines](https://learn.microsoft.com/en-us/azure/defender-for-cloud/deploy-vulnerability-assessment-vm?WT.mc_id=ES-MVP-5002880)
+[Defender for Cloud's integrated Qualys vulnerability scanner for Azure and hybrid machines](https://learn.microsoft.com/azure/defender-for-cloud/deploy-vulnerability-assessment-vm?WT.mc_id=ES-MVP-5002880)
 
-[Understanding just-in-time (JIT) VM access](https://learn.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-overview?WT.mc_id=ES-MVP-5002880?tabs=defender-for-container-arch-aks)
+[Understanding just-in-time (JIT) VM access](https://learn.microsoft.com/azure/defender-for-cloud/just-in-time-access-overview?WT.mc_id=ES-MVP-5002880?tabs=defender-for-container-arch-aks)
 
-[Improve your network security posture with adaptive network hardening](https://learn.microsoft.com/en-us/azure/defender-for-cloud/adaptive-network-hardening?WT.mc_id=ES-MVP-5002880)
+[Improve your network security posture with adaptive network hardening](https://learn.microsoft.com/azure/defender-for-cloud/adaptive-network-hardening?WT.mc_id=ES-MVP-5002880)
 
 [File Integrity Monitoring in Microsoft Defender for Cloud](https://learn.microsoft.com/azure/defender-for-cloud/file-integrity-monitoring-overview?WT.mc_id=ES-MVP-5002880)
 
-[Which files should I monitor? (File Integrity Monitor)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/file-integrity-monitoring-overview?WT.mc_id=ES-MVP-5002880#which-files-should-i-monitor)
+[Which files should I monitor? (File Integrity Monitor)](https://learn.microsoft.com/azure/defender-for-cloud/file-integrity-monitoring-overview?WT.mc_id=ES-MVP-5002880#which-files-should-i-monitor)
 
-[Azue Arc](https://azure.microsoft.com/en-us/products/azure-arc?WT.mc_id=AZ-MVP-5002880)
+[Azue Arc](https://azure.microsoft.com/products/azure-arc?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Arc overview (Microsoft Learn)](https://learn.microsoft.com/en-us/azure/azure-arc/overview?WT.mc_id=AZ-MVP-5002880)
+[Azure Arc overview (Microsoft Learn)](https://learn.microsoft.com/azure/azure-arc/overview?WT.mc_id=AZ-MVP-5002880)
 
-[Overview of Microsoft Defender for Containers](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-introduction?WT.mc_id=ES-MVP-5002880)
+[Overview of Microsoft Defender for Containers](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-containers-introduction?WT.mc_id=ES-MVP-5002880)
 
 [Mitigate threats with the new threat matrix for Kubernetes (GitHub)](https://microsoft.github.io/Threat-Matrix-for-Kubernetes?WT.mc_id=ES-MVP-5002880)
 
-[Mitigate threats with the new threat matrix for Kubernetes (Microsoft Security Blog)](https://www.microsoft.com/en-us/security/blog/2022/12/07/mitigate-threats-with-the-new-threat-matrix-for-kubernetes?WT.mc_id=ES-MVP-5002880)
+[Mitigate threats with the new threat matrix for Kubernetes (Microsoft Security Blog)](https://www.microsoft.com/security/blog/2022/12/07/mitigate-threats-with-the-new-threat-matrix-for-kubernetes?WT.mc_id=ES-MVP-5002880)
 
-[Overview of Microsoft Defender for Azure SQL](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-sql-introduction?WT.mc_id=ES-MVP-5002880)
+[Overview of Microsoft Defender for Azure SQL](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-sql-introduction?WT.mc_id=ES-MVP-5002880)
 
-[Enable Microsoft Defender for SQL servers on machines](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-sql-usage?WT.mc_id=ES-MVP-5002880)
+[Enable Microsoft Defender for SQL servers on machines](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-sql-usage?WT.mc_id=ES-MVP-5002880)
 
-[Overview of Microsoft Defender for open-source relational databases](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-databases-introduction?WT.mc_id=ES-MVP-5002880)
+[Overview of Microsoft Defender for open-source relational databases](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-databases-introduction?WT.mc_id=ES-MVP-5002880)
 
-[Overview of Microsoft Defender for Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-defender-for-cosmos?WT.mc_id=ES-MVP-5002880)
+[Overview of Microsoft Defender for Azure Cosmos DB](https://learn.microsoft.com/azure/defender-for-cloud/concept-defender-for-cosmos?WT.mc_id=ES-MVP-5002880)
 
 [Microsoft Defender Threat Intelligence](https://www.microsoft.com/en-ww/security/business/siem-and-xdr/microsoft-defender-threat-intelligence?WT.mc_id=ES-MVP-5002880)
 
-[Overview of Microsoft Defender for Storage](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-introduction?WT.mc_id=ES-MVP-5002880)
+[Overview of Microsoft Defender for Storage](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-storage-introduction?WT.mc_id=ES-MVP-5002880)
 
-[Overview of Microsoft Defender for Resource Manager](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-resource-manager-introduction?WT.mc_id=ES-MVP-5002880)
+[Overview of Microsoft Defender for Resource Manager](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-resource-manager-introduction?WT.mc_id=ES-MVP-5002880)
 
-[Overview of Microsoft Defender for DNS](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-dns-introduction?WT.mc_id=ES-MVP-5002880)
+[Overview of Microsoft Defender for DNS](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-dns-introduction?WT.mc_id=ES-MVP-5002880)
 
-[Overview of Microsoft Defender for Key Vault](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-key-vault-introduction?WT.mc_id=ES-MVP-5002880)
+[Overview of Microsoft Defender for Key Vault](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-key-vault-introduction?WT.mc_id=ES-MVP-5002880)
 
-[Continuously export Microsoft Defender for Cloud data](https://learn.microsoft.com/en-us/azure/defender-for-cloud/continuous-export?WT.mc_id=ES-MVP-5002880?tabs=azure-portal)
+[Continuously export Microsoft Defender for Cloud data](https://learn.microsoft.com/azure/defender-for-cloud/continuous-export?WT.mc_id=ES-MVP-5002880?tabs=azure-portal)
 ____

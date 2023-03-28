@@ -54,7 +54,7 @@ ___
 
 [Cloud Security Posture Management (CSPM)](https://learn.microsoft.com/azure/defender-for-cloud/concept-cloud-security-posture-management?WT.mc_id=ES-MVP-5002880)
 
-___
+
 
 #### Day 2
 
@@ -69,6 +69,8 @@ ___
 [Microsoft Defender for Endpoint](https://www.microsoft.com/security/business/endpoint-security/microsoft-defender-endpoint?WT.mc_id=ES-MVP-5002880)
 
 [Microsoft Defender for Endpoint (Microsoft Learn)](https://learn.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?WT.mc_id=ES-MVP-5002880)
+
+[Compare Microsoft Endpoint security plans](https://learn.microsoft.com/microsoft-365/security/defender-endpoint/defender-endpoint-plan-1-2?WT.mc_id=ES-MVP-5002880#compare-microsoft-endpoint-security-plans-1)
 
 [Defender for Cloud's integrated Qualys vulnerability scanner for Azure and hybrid machines](https://learn.microsoft.com/azure/defender-for-cloud/deploy-vulnerability-assessment-vm?WT.mc_id=ES-MVP-5002880)
 
@@ -109,4 +111,67 @@ ___
 [Overview of Microsoft Defender for Key Vault](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-key-vault-introduction?WT.mc_id=ES-MVP-5002880)
 
 [Continuously export Microsoft Defender for Cloud data](https://learn.microsoft.com/azure/defender-for-cloud/continuous-export?WT.mc_id=ES-MVP-5002880?tabs=azure-portal)
-____
+
+
+#### Day 3
+
+[Microsoft Zero Trust Model](https://www.microsoft.com/security/business/zero-trust?WT.mc_id=ES-MVP-5002880)
+
+[Zero Trust Guidance Center](https://learn.microsoft.com/security/zero-trust/zero-trust-overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure confidential computing](https://learn.microsoft.com/azure/confidential-computing?WT.mc_id=ES-MVP-5002880)
+
+[Blog: Latest innovations in Azure confidential computing](https://techcommunity.microsoft.com/t5/azure-confidential-computing/latest-innovations-in-azure-confidential-computing/ba-p/3573389?WT.mc_id=ES-MVP-5002880)
+
+[Azure Network Security Overview](https://learn.microsoft.com/azure/security/fundamentals/network-overview)
+
+[Overview of Azure Virtual Networks](https://learn.microsoft.com/azure/virtual-network/virtual-networks-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Overview of Azure Virtual Network Manager](https://learn.microsoft.com/azure/virtual-network-manager/overview?WT.mc_id=AZ-MVP-5002880)
+
+[Deploy dedicated Azure services into virtual networks](https://learn.microsoft.com/azure/virtual-network/virtual-network-for-azure-services?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Private Link](https://learn.microsoft.com/azure/private-link/private-link-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Azure VPN Gateway](https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpngateways?WT.mc_id=AZ-MVP-5002880)
+
+[Azure ExpressRoute](https://learn.microsoft.com/azure/expressroute/expressroute-introduction?WT.mc_id=AZ-MVP-5002880)
+
+[Virtual Network Peering](https://learn.microsoft.com/azure/virtual-network/virtual-network-peering-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Network security groups](https://learn.microsoft.com/azure/virtual-network/network-security-groups-overview?WT.mc_id=ES-MVP-5002880)
+
+[Application security groups](https://learn.microsoft.com/azure/virtual-network/application-security-groups?WT.mc_id=ES-MVP-5002880)
+
+[Virtual network service tags](https://learn.microsoft.com/azure/virtual-network/service-tags-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Virtual Network service endpoints](https://learn.microsoft.com/azure/virtual-network/virtual-network-service-endpoints-overview?WT.mc_id=ES-MVP-5002880)
+
+[Virtual network traffic routing](https://learn.microsoft.com/azure/virtual-network/virtual-networks-udr-overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure Bastion](https://learn.microsoft.com/azure/bastion/bastion-overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure Firewall](https://learn.microsoft.com/azure/firewall/overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure Well-Architected Framework review - Azure Firewall](https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-firewall?WT.mc_id=ES-MVP-5002880)
+
+[Azure DDoS Protection](https://learn.microsoft.com/azure/ddos-protection/ddos-protection-overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure Web Application Firewall](https://learn.microsoft.com/azure/web-application-firewall/overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure Web Application Firewall on Azure Application Gateway](https://learn.microsoft.com/azure/web-application-firewall/ag/ag-overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure Application Gateway](https://learn.microsoft.com/azure/application-gateway/overview?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Front Door](https://learn.microsoft.com/azure/frontdoor/front-door-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Web Application Firewall on Azure Front Door](https://learn.microsoft.com/azure/web-application-firewall/afds/afds-overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure best practices for network security](https://learn.microsoft.com/azure/security/fundamentals/network-best-practices?WT.mc_id=ES-MVP-5002880)
+
+[Azure Network Watcher](https://learn.microsoft.com/azure/network-watcher/network-watcher-monitoring-overview)
+
+[Flow logs for network security groups](https://learn.microsoft.com/azure/network-watcher/network-watcher-nsg-flow-logging-overview?WT.mc_id=AZ-MVP-5002880)
+
+#### Day 4
+[TBA]

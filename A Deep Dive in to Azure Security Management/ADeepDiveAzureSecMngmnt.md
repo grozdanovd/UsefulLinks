@@ -214,6 +214,10 @@ ____
 
 [Microsoft Cost Management and Billing](https://learn.microsoft.com/azure/cost-management-billing/cost-management-billing-overview?WT.mc_id=AZ-MVP-5002880)
 
+[Azure Cost Management Power BI Report | GitHub](https://github.com/chris-bowman/Azure-Cost-Reporting?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Quick Review Tool | GitHub](https://github.com/cmendible/azqr?WT.mc_id=AZ-MVP-5002880)
+
 [Inventory and visibility in cloud management](https://learn.microsoft.com/azure/cloud-adoption-framework/manage/considerations/inventory?WT.mc_id=AZ-MVP-5002880)
 
 [Inventory and visibility in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/manage/azure-management-guide/inventory?WT.mc_id=AZ-MVP-5002880)

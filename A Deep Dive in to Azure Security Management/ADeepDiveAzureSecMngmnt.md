@@ -214,6 +214,8 @@ ____
 
 [Microsoft Cost Management and Billing](https://learn.microsoft.com/azure/cost-management-billing/cost-management-billing-overview?WT.mc_id=AZ-MVP-5002880)
 
+[Set up and configure AWS Cost and Usage report integration](https://learn.microsoft.com/azure/cost-management-billing/costs/aws-integration-set-up-configure?WT.mc_id=AZ-MVP-5002880)
+
 [Tool: Azure Cost Management Power BI Report | GitHub](https://github.com/chris-bowman/Azure-Cost-Reporting?WT.mc_id=AZ-MVP-5002880)
 
 [Tool: Azure Quick Review | GitHub](https://github.com/cmendible/azqr?WT.mc_id=AZ-MVP-5002880)

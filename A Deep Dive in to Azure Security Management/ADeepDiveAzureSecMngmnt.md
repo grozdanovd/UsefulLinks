@@ -23,7 +23,6 @@ ___
 
 [Cloud Adoption Framework - Secure](https://learn.microsoft.com/azure/cloud-adoption-framework/secure?WT.mc_id=ES-MVP-5002880)
 
-
 [Cloud Adoption Framework - Tools, Templates, Job Aids](https://learn.microsoft.com/azure/cloud-adoption-framework/resources/tools-templates?WT.mc_id=AZ-MVP-5002880)
 
 [Cloud Adoption Framework - Scenarios](https://docs.microsoft.com/azure/cloud-adoption-framework/scenarios?WT.mc_id=AZ-MVP-5002880)
@@ -173,5 +172,62 @@ ___
 
 [Flow logs for network security groups](https://learn.microsoft.com/azure/network-watcher/network-watcher-nsg-flow-logging-overview?WT.mc_id=AZ-MVP-5002880)
 
+____
+
 #### Day 4
-[TBA]
+
+[Organize your Azure resources effectively](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?WT.mc_id=AZ-MVP-5002880)
+
+[Deploy a cloud governance foundation | Module 7 | Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure training](https://learn.microsoft.com/training/modules/cloud-adoption-framework-govern/7-deploy-governance-foundation?WT.mc_id=AZ-MVP-5002880)
+
+[Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits?WT.mc_id=AZ-MVP-5002880)
+
+[Naming rules and restrictions for Azure resources](https://learn.microsoft.com/azure/azure-resource-manager/management/resource-name-rules?WT.mc_id=AZ-MVP-5002880)
+
+[Use tags to organize your Azure resources and management hierarchy](https://learn.microsoft.com/azure/azure-resource-manager/management/tag-resources?WT.mc_id=ES-MVP-5002880)
+
+[Azure custom roles](https://learn.microsoft.com/azure/role-based-access-control/custom-roles?WT.mc_id=AZ-MVP-5002880)
+
+[Tutorial: Manage tag governance with Azure Policy](https://docs.microsoft.com/azure/governance/policy/tutorials/govern-tags?WT.mc_id=AZ-MVP-5002880)
+
+[Tool: Azure governance visualizer](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Resource Graph](https://learn.microsoft.com/azure/governance/resource-graph/overview?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Blueprints](https://learn.microsoft.com/azure/governance/blueprints/overview?WT.mc_id=AZ-MVP-5002880)
+
+[What is Azure Blueprints? | Intro to Azure blueprints training](https://learn.microsoft.com/training/modules/intro-to-azure-blueprints/2-what-is-azure-blueprints?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Blueprints samples](https://learn.microsoft.com/azure/governance/blueprints/samples?WT.mc_id=AZ-MVP-5002880)
+
+[Lock your resources to protect your infrastructure](https://learn.microsoft.com/azure/azure-resource-manager/management/lock-resources?WT.mc_id=AZ-MVP-5002880)
+
+[Define corporate policy for cloud governance](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/policy-compliance/policy-definition?WT.mc_id=AZ-MVP-5002880)
+
+[The Cost Management discipline | Module 8 | Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure training ](https://learn.microsoft.com/training/modules/cloud-adoption-framework-govern/8-mature-cost-management?WT.mc_id=AZ-MVP-5002880)
+
+[Cost Management tools in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/cost-management/toolchain?WT.mc_id=AZ-MVP-5002880)
+
+[Best practices for costing and sizing resources hosted in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/cost-management/best-practices?WT.mc_id=AZ-MVP-5002880)
+
+[Microsoft Cost Management and Billing](https://learn.microsoft.com/azure/cost-management-billing/cost-management-billing-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Inventory and visibility in cloud management](https://learn.microsoft.com/azure/cloud-adoption-framework/manage/considerations/inventory?WT.mc_id=AZ-MVP-5002880)
+
+[Inventory and visibility in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/manage/azure-management-guide/inventory?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Service Health](https://learn.microsoft.com/en-in/azure/service-health/service-health-portal-update?WT.mc_id=AZ-MVP-5002880)
+
+[Resource Health overview](https://learn.microsoft.com/azure/service-health/resource-health-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Azure Monitor overview](https://learn.microsoft.com/azure/azure-monitor/overview?WT.mc_id=AZ-MVP-5002880)
+
+[Overview of Log Analytics in Azure Monitor](https://learn.microsoft.com/azure/azure-monitor/logs/log-analytics-overview?WT.mc_id=AZ-MVP-5002880)
+
+[Kusto Query Language (KQL)](https://learn.microsoft.com/azure/data-explorer/kusto/query?WT.mc_id=AZ-MVP-5002880)
+
+[Tutorial: Learn common KQL operators](https://learn.microsoft.com/azure/data-explorer/kusto/query/tutorials/learn-common-operators?WT.mc_id=AZ-MVP-5002880)
+
+[KQL quick reference](https://learn.microsoft.com/azure/data-explorer/kql-quick-reference?WT.mc_id=AZ-MVP-5002880)
+
+[Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=ES-MVP-5002880)

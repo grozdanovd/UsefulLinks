@@ -208,6 +208,8 @@ ____
 
 [Cost Management tools in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/cost-management/toolchain?WT.mc_id=AZ-MVP-5002880)
 
+[Article: Azure FinOps: What it is and Why it matters](https://www.ituziast.com/index.php/2023/02/20/azure-finops-what-it-is-and-why-it-matters)
+
 [Best practices for costing and sizing resources hosted in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/cost-management/best-practices?WT.mc_id=AZ-MVP-5002880)
 
 [Microsoft Cost Management and Billing](https://learn.microsoft.com/azure/cost-management-billing/cost-management-billing-overview?WT.mc_id=AZ-MVP-5002880)

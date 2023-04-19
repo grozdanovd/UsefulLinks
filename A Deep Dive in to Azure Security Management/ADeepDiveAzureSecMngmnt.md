@@ -239,3 +239,11 @@ ____
 [KQL quick reference](https://learn.microsoft.com/azure/data-explorer/kql-quick-reference?WT.mc_id=AZ-MVP-5002880)
 
 [Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=ES-MVP-5002880)
+
+____
+
+#### Additional resources
+
+[Kusto Detective Agency (interactive game)](https://detective.kusto.io/)
+
+[Microsoft Sentinel Ninja (Level 400 training)](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310?WT.mc_id=ES-MVP-5002880)

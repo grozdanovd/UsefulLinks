@@ -3,9 +3,11 @@
 #### Framework, Tools, Architecure
 ___
 
-[Azure Migrate - Common questions](https://learn.microsoft.com/azure/migrate/common-questions-server-migration?WT.mc_id=AZ-MVP-5002880 ) 
+[Azure Migrate - Common questions](https://learn.microsoft.com/azure/migrate/common-questions-server-migration?WT.mc_id=AZ-MVP-5002880) 
 
-[Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880) 
+[Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)
+
+[Cloud adoption in the era of accelerated Digital Transformation (Article)](https://www.ituziast.com/index.php/2020/04/17/cloud-adoption-in-the-era-of-accelerated-digital-transformation-part-1/)
 
 [Azure Well-Architected Framework](https://learn.microsoft.com/azure/architecture/framework?WT.mc_id=AZ-MVP-5002880)
 
@@ -23,9 +25,9 @@ ___
 
 [3 ways to enhance your cloud journey: break, prepare, and optimize your apps in Azure](https://azure.microsoft.com/blog/3-ways-to-enhance-your-cloud-journey-break-prepare-and-optimize-your-apps-in-azure?WT.mc_id=AZ-MVP-5002880)
 
-[Your target end-state - Azure landing zones conceptual architecture](https://techcommunity.microsoft.com/t5/azure-migration-and/your-target-end-state-azure-landing-zones-conceptual/ba-p/2898577?WT.mc_id=AZ-MVP-5002880)
+[Azure Spring Clean 2023: A customer journey to the cloud starts … Here! (Article+Video)](https://www.ituziast.com/index.php/2023/03/08/azure-spring-clean-2023-a-customer-journey-to-the-cloud-starts-here)
 
----
+[Your target end-state - Azure landing zones conceptual architecture](https://techcommunity.microsoft.com/t5/azure-migration-and/your-target-end-state-azure-landing-zones-conceptual/ba-p/2898577?WT.mc_id=AZ-MVP-5002880)
 
 [Strategic Migration Assessment and Readiness Tool (SMART)](https://learn.microsoft.com/azure/cloud-adoption-framework/plan/smart-assessment?WT.mc_id=AZ-MVP-5002880)
 
@@ -54,13 +56,11 @@ ___
 [Azure Import/Export Service](https://learn.microsoft.com/azure/import-export/storage-import-export-service?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Databox Service](https://learn.microsoft.com/azure/vmware-cloudsimple/migration-using-azure-data-box?WT.mc_id=AZ-MVP-5002880)
-___
 
 [Azure Migrate - Web apps](https://learn.microsoft.com/azure/migrate/tutorial-migrate-webapps?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Migrate: Web Apps Assesment](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-webapps-assessment-calculation)
 
----
 [Azure Blueprints](https://learn.microsoft.com/azure/governance/blueprints/overview?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Management Groups](https://learn.microsoft.com/azure/governance/management-groups/overview?WT.mc_id=AZ-MVP-5002880)
@@ -97,27 +97,23 @@ ___
 
 [Log Analytics in Azure Monitor](https://learn.microsoft.com/azure/azure-monitor/logs/log-analytics-overview?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Automation](https://learn.microsoft.com/en-us/azure/automation/overview)
+[Azure Automation](https://learn.microsoft.comazure/automation/overview?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Monitor activity log](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log)
+[Azure Monitor activity log](https://learn.microsoft.comazure/azure-monitor/essentials/activity-log?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview)
+[Azure Network Watcher](https://learn.microsoft.com/azure/network-watcher/network-watcher-monitoring-overview?WT.mc_id=AZ-MVP-5002880)
 
-[DNS Analytics solution (Public Preview)](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/dns-analytics)
+[Azure identity management security](https://learn.microsoft.com/azure/security/fundamentals/identity-management-overviewWT.mc_id=ES-MVP-5002880)
 
-[Azure identity management security](https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview)
+[Identity decision guide](https://learn.microsoft.com/azure/cloud-adoption-framework/decision-guides/identity?WT.mc_id=ES-MVP-5002880)
 
-[Identity decision guide](https://learn.microsoft.com/azure/cloud-adoption-framework/decision-guides/identity?WT.mc_id=AZ-MVP-5002880)
+[Azure Resource Locks](https://learn.microsoft.com/azure/azure-resource-manager/management/lock-resources?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Resource Locks](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources)
+[Azure Network Security](https://learn.microsoft.com/azure/security/fundamentals/network-overviewWT.mc_id=ES-MVP-5002880)
 
-[Azure Network Security](https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview)
+[Zero Trust Guidance Center](https://learn.microsoft.com/security/zero-trust?WT.mc_id=AZ-MVP-5002880)
 
-[Zero Trust Guidance Center](https://learn.microsoft.com/en-us/security/zero-trust)
-
-[Azure Data Encryption(at rest)](https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest)
-
-
+[Azure Data Encryption(at rest)](https://learn.microsoft.com/azure/security/fundamentals/encryption-atrest?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Network Recommendations](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/considerations/networking-options?WT.mc_id=AZ-MVP-5002880)
 

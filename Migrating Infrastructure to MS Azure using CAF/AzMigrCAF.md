@@ -1,4 +1,4 @@
-## Migrating Infrastructure to Microsoft  Azure using Cloud Adoption Framework (CAF)
+## Migrating Infrastructure to Microsoft Azure using Cloud Adoption Framework (CAF)
 
 #### Framework, Tools, Architecure
 ___

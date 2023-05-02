@@ -13,7 +13,9 @@ ___
 
 [Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Architecture - Naming conventions](https://learn.microsoft.com/azure/architecture/best-practices/naming-conventions?WT.mc_id=AZ-MVP-5002880) 
+[Azure Architecture - Naming conventions](https://learn.microsoft.com/azure/architecture/best-practices/naming-conventions?WT.mc_id=AZ-MVP-5002880)
+
+[Microsoft Assessments](https://learn.microsoft.com/assessments?WT.mc_id=AZ-MVP-5002880)
 
 [CAF Tools and templates](https://learn.microsoft.com/azure/cloud-adoption-framework/resources/tools-templates?WT.mc_id=AZ-MVP-5002880)
 

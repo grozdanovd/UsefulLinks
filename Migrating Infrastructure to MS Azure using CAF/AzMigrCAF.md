@@ -87,11 +87,13 @@ ___
 
 [Microsoft Cost Management REST API](https://learn.microsoft.com/rest/api/cost-management?WT.mc_id=AZ-MVP-5002880)
 
+[Azure Cost Optimization (Well-Architected Framework for Azure)](https://learn.microsoft.com/azure/architecture/framework/cost/overview?WT.mc_id=AZ-MVP-5002880)
+
 [Connect to Azure Consumption Insights data in Power BI Desktop](https://learn.microsoft.com/power-bi/connect-data/desktop-connect-azure-consumption-insights?WT.mc_id=AZ-MVP-5002880)
 
 [Best practices for costing and sizing resources hosted in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/cost-management/best-practices?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Cost Optimization (Well-Architected Framework for Azure)](https://learn.microsoft.com/azure/architecture/framework/cost/overview?WT.mc_id=AZ-MVP-5002880)
+[Azure FinOps: What it is and Why it matters (Article)](https://www.ituziast.com/index.php/2023/02/20/azure-finops-what-it-is-and-why-it-matters)
 
 [Azure Service Health](https://learn.microsoft.com/azure/service-health/overview?WT.mc_id=AZ-MVP-5002880)
 
@@ -115,7 +117,7 @@ ___
 
 [Zero Trust Guidance Center](https://learn.microsoft.com/security/zero-trust?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Data Encryption(at rest)](https://learn.microsoft.com/azure/security/fundamentals/encryption-atrest?WT.mc_id=AZ-MVP-5002880)
+[Azure Data Encryption (at rest)](https://learn.microsoft.com/azure/security/fundamentals/encryption-atrest?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Network Recommendations](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/considerations/networking-options?WT.mc_id=AZ-MVP-5002880)
 

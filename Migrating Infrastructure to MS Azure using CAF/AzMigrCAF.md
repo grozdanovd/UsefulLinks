@@ -115,9 +115,9 @@ ___
 
 [Azure Network Security](https://learn.microsoft.com/azure/security/fundamentals/network-overviewWT.mc_id=ES-MVP-5002880)
 
-[Zero Trust Guidance Center](https://learn.microsoft.com/security/zero-trust?WT.mc_id=AZ-MVP-5002880)
+[Zero Trust Guidance Center](https://learn.microsoft.com/security/zero-trust?WT.mc_id=ES-MVP-5002880)
 
-[Azure Data Encryption (at rest)](https://learn.microsoft.com/azure/security/fundamentals/encryption-atrest?WT.mc_id=AZ-MVP-5002880)
+[Azure Data Encryption (at rest)](https://learn.microsoft.com/azure/security/fundamentals/encryption-atrest?WT.mc_id=ES-MVP-5002880)
 
 [Azure Network Recommendations](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/considerations/networking-options?WT.mc_id=AZ-MVP-5002880)
 

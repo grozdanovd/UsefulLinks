@@ -61,7 +61,7 @@ ___
 
 [Azure Migrate - Web apps](https://learn.microsoft.com/azure/migrate/tutorial-migrate-webapps?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Migrate: Web Apps Assesment](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-webapps-assessment-calculation)
+[Azure Migrate: Web Apps Assessment](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-webapps-assessment-calculation)
 
 [Azure Blueprints](https://learn.microsoft.com/azure/governance/blueprints/overview?WT.mc_id=AZ-MVP-5002880)
 

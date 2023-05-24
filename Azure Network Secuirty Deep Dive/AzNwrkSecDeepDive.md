@@ -4,7 +4,7 @@
 
 [Azure geographies](https://azure.microsoft.com/explore/global-infrastructure/geographies/?WT.mc_id=AZ-MVP-5002880#overview)
 
-[Azure global infrastructure expirience](https://datacenters.microsoft.com/globe/explore?WT.mc_id=AZ-MVP-5002880)
+[Azure global infrastructure experience](https://datacenters.microsoft.com/globe/explore?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Network Security overview](https://learn.microsoft.com/azure/security/fundamentals/network-overview?WT.mc_id=ES-MVP-5002880)
 
@@ -54,9 +54,17 @@
 
 [Azure ExpressRoute](https://learn.microsoft.com/azure/expressroute/expressroute-introduction?WT.mc_id=AZ-MVP-5002880)
 
+[ExpressRoute connectivity models](https://learn.microsoft.com/azure/expressroute/expressroute-connectivity-models?WT.mc_id=AZ-MVP-5002880)
+
 [Azure Private Link](https://learn.microsoft.com/azure/private-link/private-link-overview?WT.mc_id=AZ-MVP-5002880)
 
 [Azure encryption overview](https://learn.microsoft.com/azure/security/fundamentals/encryption-overview?WT.mc_id=ES-MVP-5002880)
+
+[Azure Storage encryption for data at rest](https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)
+
+[Grant limited access to Azure Storage resources using shared access signatures (SAS)](https://learn.microsoft.com/azure/storage/common/storage-sas-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)
+
+[Azure Load-balancing options](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Load Balancer](https://learn.microsoft.com/azure/load-balancer/load-balancer-overview?WT.mc_id=AZ-MVP-5002880)
 
@@ -64,7 +72,7 @@
 
 [Azure DNS service](https://learn.microsoft.com/azure/dns/dns-overview?WT.mc_id=AZ-MVP-5002880)
 
-[Perimeter networks | Cloud Adoption Framwework](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/perimeter-networks?WT.mc_id=AZ-MVP-5002880)
+[Perimeter networks | Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/perimeter-networks?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Distributed denial of service (DDoS) Protection](https://learn.microsoft.com/azure/ddos-protection/ddos-protection-overview?WT.mc_id=ES-MVP-5002880)
 

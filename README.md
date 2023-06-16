@@ -8,6 +8,4 @@ These links will provide you with guidance, best practices, tutorials and tools 
 
 Whether you are new to the cloud or an experienced developer or administrator, you will find something useful here.
 
-I use these links during teaching, community activities, or event sessions.
-
-
+I use these links for training sessions, community activities, or events.

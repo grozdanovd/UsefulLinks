@@ -1,9 +1,8 @@
-## Migrating Infrastructure to Microsoft Azure using Cloud Adoption Framework (CAF)
+# Migrating Infrastructure to Microsoft Azure using Cloud Adoption Framework (CAF)
 
-#### Framework, Tools, Architecure
-___
+## Framework, Tools, Architecure
 
-[Azure Migrate - Common questions](https://learn.microsoft.com/azure/migrate/common-questions-server-migration?WT.mc_id=AZ-MVP-5002880) 
+[Azure Migrate - Common questions](https://learn.microsoft.com/azure/migrate/common-questions-server-migration?WT.mc_id=AZ-MVP-5002880)
 
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)
 
@@ -53,7 +52,7 @@ ___
 
 [Azure File Sync](https://learn.microsoft.com/azure/storage/file-sync/file-sync-introduction?WT.mc_id=AZ-MVP-5002880)
 
-[Azure NetApp Files](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction?WT.mc_id=AZ-MVP-5002880)
+[Azure NetApp Files](https://learn.microsoft.com/azure/azure-netapp-files/azure-netapp-files-introduction?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Import/Export Service](https://learn.microsoft.com/azure/import-export/storage-import-export-service?WT.mc_id=AZ-MVP-5002880)
 
@@ -61,7 +60,7 @@ ___
 
 [Azure Migrate - Web apps](https://learn.microsoft.com/azure/migrate/tutorial-migrate-webapps?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Migrate: Web Apps Assessment](https://learn.microsoft.com/en-us/azure/migrate/concepts-azure-webapps-assessment-calculation)
+[Azure Migrate: Web Apps Assessment](https://learn.microsoft.com/azure/migrate/concepts-azure-webapps-assessment-calculation)
 
 [Azure Blueprints](https://learn.microsoft.com/azure/governance/blueprints/overview?WT.mc_id=AZ-MVP-5002880)
 

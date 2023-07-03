@@ -1,6 +1,7 @@
-## A Deep Dive into Azure Security Management
+# A Deep Dive into Azure Security Management
 
-#### Day 1
+## Day 1
+
 ___
 
 [Cloud Adoption Framework - Overview](https://docs.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)
@@ -35,7 +36,7 @@ ___
 
 [Cloud Adoption Framework - All learning paths](https://learn.microsoft.com/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)
 
-[Microsot Entra](https://www.microsoft.com/en-ww/security/business/microsoft-entra?WT.mc_id=ES-MVP-5002880)
+[Microsot Entra](https://www.microsoft.com/security/business/microsoft-entra?WT.mc_id=ES-MVP-5002880)
 
 [Microsot Entra (Technical Documentation)](https://learn.microsoft.com/entra?WT.mc_id=ES-MVP-5002880)
 
@@ -53,9 +54,7 @@ ___
 
 [Cloud Security Posture Management (CSPM)](https://learn.microsoft.com/azure/defender-for-cloud/concept-cloud-security-posture-management?WT.mc_id=ES-MVP-5002880)
 
-
-
-#### Day 2
+## Day 2
 
 [Microsoft Defender for Servers](https://learn.microsoft.com/azure/defender-for-cloud/plan-defender-for-servers-select-plan?WT.mc_id=ES-MVP-5002880)
 
@@ -99,7 +98,7 @@ ___
 
 [Overview of Microsoft Defender for Azure Cosmos DB](https://learn.microsoft.com/azure/defender-for-cloud/concept-defender-for-cosmos?WT.mc_id=ES-MVP-5002880)
 
-[Microsoft Defender Threat Intelligence](https://www.microsoft.com/en-ww/security/business/siem-and-xdr/microsoft-defender-threat-intelligence?WT.mc_id=ES-MVP-5002880)
+[Microsoft Defender Threat Intelligence](https://www.microsoft.com/security/business/siem-and-xdr/microsoft-defender-threat-intelligence?WT.mc_id=ES-MVP-5002880)
 
 [Overview of Microsoft Defender for Storage](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-storage-introduction?WT.mc_id=ES-MVP-5002880)
 
@@ -111,8 +110,7 @@ ___
 
 [Continuously export Microsoft Defender for Cloud data](https://learn.microsoft.com/azure/defender-for-cloud/continuous-export?WT.mc_id=ES-MVP-5002880?tabs=azure-portal)
 
-
-#### Day 3
+## Day 3
 
 [Microsoft Zero Trust Model](https://www.microsoft.com/security/business/zero-trust?WT.mc_id=ES-MVP-5002880)
 
@@ -172,9 +170,7 @@ ___
 
 [Flow logs for network security groups](https://learn.microsoft.com/azure/network-watcher/network-watcher-nsg-flow-logging-overview?WT.mc_id=AZ-MVP-5002880)
 
-____
-
-#### Day 4
+## Day 4
 
 [Organize your Azure resources effectively](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?WT.mc_id=AZ-MVP-5002880)
 
@@ -204,7 +200,7 @@ ____
 
 [Define corporate policy for cloud governance](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/policy-compliance/policy-definition?WT.mc_id=AZ-MVP-5002880)
 
-[The Cost Management discipline | Module 8 | Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure training ](https://learn.microsoft.com/training/modules/cloud-adoption-framework-govern/8-mature-cost-management?WT.mc_id=AZ-MVP-5002880)
+[The Cost Management discipline | Module 8 | Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure training](https://learn.microsoft.com/training/modules/cloud-adoption-framework-govern/8-mature-cost-management?WT.mc_id=AZ-MVP-5002880)
 
 [Cost Management tools in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/cost-management/toolchain?WT.mc_id=AZ-MVP-5002880)
 
@@ -224,7 +220,7 @@ ____
 
 [Inventory and visibility in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/manage/azure-management-guide/inventory?WT.mc_id=AZ-MVP-5002880)
 
-[Azure Service Health](https://learn.microsoft.com/en-in/azure/service-health/service-health-portal-update?WT.mc_id=AZ-MVP-5002880)
+[Azure Service Health](https://learn.microsoft.com/azure/service-health/service-health-portal-update?WT.mc_id=AZ-MVP-5002880)
 
 [Resource Health overview](https://learn.microsoft.com/azure/service-health/resource-health-overview?WT.mc_id=AZ-MVP-5002880)
 
@@ -240,9 +236,7 @@ ____
 
 [Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=ES-MVP-5002880)
 
-____
-
-#### Additional resources
+## Additional resources
 
 [Kusto Detective Agency (interactive game)](https://detective.kusto.io/)
 

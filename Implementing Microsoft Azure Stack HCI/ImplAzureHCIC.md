@@ -1,8 +1,6 @@
-## Implementing Microsoft Azure Stack HCI
+# Implementing Microsoft Azure Stack HCI
 
-#### Documentation, Framework, Tools, Architecure, Training links
-
-___
+## Documentation, Framework, Tools, Architecure, Training links
 
 ### Day 1
 
@@ -58,15 +56,15 @@ ___
 
 ### Day 3
 
-[Physical network requirements for Azure Stack HCI](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/physical-network-requirements?WT.mc_id=AZ-MVP-5002880?tabs=20-21H2%2C20-21H2reqs)
+[Physical network requirements for Azure Stack HCI](https://learn.microsoft.com/azure-stack/hci/concepts/physical-network-requirements?WT.mc_id=AZ-MVP-5002880?tabs=20-21H2%2C20-21H2reqs)
 
-[Training: Introduction to Azure Stack HCI core technologies](https://learn.microsoft.com/en-us/training/modules/azure-stack-hci-technologies?WT.mc_id=AZ-MVP-5002880)
+[Training: Introduction to Azure Stack HCI core technologies](https://learn.microsoft.com/training/modules/azure-stack-hci-technologies?WT.mc_id=AZ-MVP-5002880)
 
-[Software Defined Networking (SDN)](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/software-defined-networking?WT.mc_id=AZ-MVP-5002880)
+[Software Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/software-defined-networking?WT.mc_id=AZ-MVP-5002880)
 
 [GitHub: Microsoft Software Defined Networking (SDN)]( https://github.com/microsoft/SDN?WT.mc_id=AZ-MVP-5002880)
 
-[Datacenter Firewall functionality in Software-Defined Networking (SDN)](https://learn.microsoft.com/en-us/azure-stack/hci/concepts/datacenter-firewall-overview?WT.mc_id=AZ-MVP-5002880)
+[Datacenter Firewall functionality in Software-Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/datacenter-firewall-overview?WT.mc_id=AZ-MVP-5002880)
 
 [Software Load Balancer (SLB) for Software Defined Networking (SDN)](https://learn.microsoft.comazure-stack/hci/concepts/software-load-balancer?WT.mc_id=AZ-MVP-5002880)
 

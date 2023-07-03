@@ -1,6 +1,6 @@
-## Azure Network Security Deep Dive
+# Azure Network Security Deep Dive
 
-#### Day 1
+## Day 1
 
 [Azure geographies](https://azure.microsoft.com/explore/global-infrastructure/geographies/?WT.mc_id=AZ-MVP-5002880#overview)
 
@@ -8,13 +8,13 @@
 
 [Azure Network Security overview](https://learn.microsoft.com/azure/security/fundamentals/network-overview?WT.mc_id=ES-MVP-5002880)
 
-[Find the Networking product you need](https://azure.microsoft.com/en-us/products/category/networking?WT.mc_id=AZ-MVP-5002880)
+[Find the Networking product you need](https://azure.microsoft.com/products/category/networking?WT.mc_id=AZ-MVP-5002880)
 
-[Zero Trust Model](https://www.microsoft.com/en-us/security/business/zero-trustT.mc_id=ES-MVP-5002880)
+[Zero Trust Model](https://www.microsoft.com/security/business/zero-trustT.mc_id=ES-MVP-5002880)
 
 [What is Zero Trust?](https://learn.microsoft.com/security/zero-trust/zero-trust-overview?WT.mc_id=ES-MVP-5002880)
 
-[Azure network security](https://azure.microsoft.com/en-us/solutions/network-security/?WT.mc_id=ES-MVP-5002880)
+[Azure network security](https://azure.microsoft.com/solutions/network-security/?WT.mc_id=ES-MVP-5002880)
 
 [Overview of Azure Virtual Networks](https://learn.microsoft.com/azure/virtual-network/virtual-networks-overview?WT.mc_id=AZ-MVP-5002880)
 
@@ -40,7 +40,7 @@
 
 [What is Azure Bastion?](https://learn.microsoft.com/azure/bastion/bastion-overview?WT.mc_id=AZ-MVP-5002880)
 
-[What is Azure Web Application Firewall (WAF)?](https://learn.microsoft.com/en-us/azure/web-application-firewall/overview?WT.mc_id=AZ-MVP-5002880)
+[What is Azure Web Application Firewall (WAF)?](https://learn.microsoft.com/azure/web-application-firewall/overview?WT.mc_id=AZ-MVP-5002880)
 
 [What is Azure Application Gateway?](https://learn.microsoft.com/azure/application-gateway/overview?WT.mc_id=AZ-MVP-5002880)
 
@@ -48,7 +48,7 @@
 
 [Azure Web Application Firewall on Azure Front Door](https://learn.microsoft.com/azure/web-application-firewall/afds/afds-overview?WT.mc_id=ES-MVP-5002880)
 
-#### Day 2
+## Day 2
 
 [Azure VPN Gateway](https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-about-vpngateways?WT.mc_id=AZ-MVP-5002880)
 
@@ -60,7 +60,7 @@
 
 [Azure encryption overview](https://learn.microsoft.com/azure/security/fundamentals/encryption-overview?WT.mc_id=ES-MVP-5002880)
 
-[Azure Storage encryption for data at rest](https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)
+[Azure Storage encryption for data at rest](https://learn.microsoft.com/azure/storage/common/storage-service-encryption?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)
 
 [Grant limited access to Azure Storage resources using shared access signatures (SAS)](https://learn.microsoft.com/azure/storage/common/storage-sas-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)
 
@@ -102,13 +102,13 @@
 
 [Virtual Network Terminal Access Point (TAP) - Preview](https://learn.microsoft.com/azure/virtual-network/virtual-network-tap-overview?WT.mc_id=AZ-MVP-5002880)
 
-#### Additional trainings, certification info, frameworks, tools
+## Additional trainings, certification info, frameworks, tools
 
 [Microsoft Certified: Azure Network Engineer Associate](https://learn.microsoft.com/certifications/azure-network-engineer-associate/?WT.mc_id=AZ-MVP-5002880)
 
-[Introduction to Azure Virtual Networks | Microsoft Learn Training](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-virtual-networks/)
+[Introduction to Azure Virtual Networks | Microsoft Learn Training](https://learn.microsoft.com/training/modules/introduction-to-azure-virtual-networks/)
 
-[AZ-700 Designing and Implementing Microsoft Azure Networking Solutions | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/?WT.mc_id=AZ-MVP-5002880)
+[AZ-700 Designing and Implementing Microsoft Azure Networking Solutions | Microsoft Learn](https://learn.microsoft.com/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101?WT.mc_id=ES-MVP-5002880)
 
@@ -119,7 +119,6 @@
 [Cloud Adoption Framework - Trainings (Microsoft Learn)](https://learn.microsoft.com/training/modules/microsoft-cloud-adoption-framework-for-azure?WT.mc_id=AZ-MVP-5002880)
 
 [Cloud Adoption Framework - All learning paths](https://learn.microsoft.com/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)
-
 
 [Cloud Adoption Framework - Overview](https://docs.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)
 

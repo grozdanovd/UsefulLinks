@@ -1,6 +1,4 @@
-## Usefull Links
-
-# ReadMe
+## Selection of Links
 
 This repository contains a collection of links to various Microsoft technologies and services that can help you with your cloud journey. You will find resources on Microsoft Azure, Azure Security, Zero Trust, Cloud Adoption Framework, Well-Architected Framework and more. 
 

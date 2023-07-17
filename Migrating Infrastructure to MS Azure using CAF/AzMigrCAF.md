@@ -32,6 +32,8 @@
 
 [Strategic Migration Assessment and Readiness Tool (SMART)](https://learn.microsoft.com/azure/cloud-adoption-framework/plan/smart-assessment?WT.mc_id=AZ-MVP-5002880)
 
+[Azure Landing Zone Accelerator approach](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/implementation-options?WT.mc_id=AZ-MVP-5002880#azure-landing-zone-accelerator-approach)
+
 [Microsoft Cloud Adoption Framework for Azure Migration landing zone blueprint sample](https://learn.microsoft.com/azure/governance/blueprints/samples/caf-migrate-landing-zone?WT.mc_id=AZ-MVP-5002880)
 
 [Cloud Adoption Framework enterprise-scale landing zones in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/enterprise-scale/implementation?WT.mc_id=AZ-MVP-5002880)

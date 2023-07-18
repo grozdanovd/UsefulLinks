@@ -1,6 +1,6 @@
 # Migrating Infrastructure to Microsoft Azure using Cloud Adoption Framework (CAF)
 
-## Framework, Tools, Architecure
+## Framework, Tools, Architecture
 
 [Azure Migrate - Common questions](https://learn.microsoft.com/azure/migrate/common-questions-server-migration?WT.mc_id=AZ-MVP-5002880)
 
@@ -37,6 +37,12 @@
 [Microsoft Cloud Adoption Framework for Azure Migration landing zone blueprint sample](https://learn.microsoft.com/azure/governance/blueprints/samples/caf-migrate-landing-zone?WT.mc_id=AZ-MVP-5002880)
 
 [Cloud Adoption Framework enterprise-scale landing zones in Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/enterprise-scale/implementation?WT.mc_id=AZ-MVP-5002880)
+
+[Azure landing zones - Bicep modules design considerations](https://learn.microsoft.com/azure/architecture/landing-zones/bicep/landing-zone-bicep?WT.mc_id=AZ-MVP-5002880)
+
+[Bicep documentation](https://learn.microsoft.com/azure/azure-resource-manager/bicep/?WT.mc_id=AZ-MVP-5002880)
+
+[Microsoft Learn Modules for Bicep](https://learn.microsoft.com/azure/azure-resource-manager/bicep/learn-bicep?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Database Migration Service](https://learn.microsoft.com/azure/dms/dms-overview?WT.mc_id=AZ-MVP-5002880)
 

@@ -42,7 +42,11 @@
 
 [Bicep documentation](https://learn.microsoft.com/azure/azure-resource-manager/bicep/?WT.mc_id=AZ-MVP-5002880)
 
-[Microsoft Learn Modules for Bicep](https://learn.microsoft.com/azure/azure-resource-manager/bicep/learn-bicep?WT.mc_id=AZ-MVP-5002880)
+[Fundamentals of Bicep | Microsoft Learn training](https://learn.microsoft.com/training/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5002880)
+
+[Intermediate Bicep | Microsoft Learn training](https://learn.microsoft.com/training/paths/intermediate-bicep/?WT.mc_id=AZ-MVP-5002880)
+
+[Advanced Bicep | Microsoft Learn training](https://learn.microsoft.com/training/paths/intermediate-bicep/?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Database Migration Service](https://learn.microsoft.com/azure/dms/dms-overview?WT.mc_id=AZ-MVP-5002880)
 

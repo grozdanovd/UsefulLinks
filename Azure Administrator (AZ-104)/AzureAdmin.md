@@ -1,5 +1,4 @@
 # Azure Administrator (AZ-104)
-
 ## Module 1 (Microsoft Learn)
 
 [Allow users to reset their password with Azure Active Directory self-service password reset](https://learn.microsoft.com/training/modules/allow-users-reset-their-password?WT.mc_id=ES-MVP-5002880)

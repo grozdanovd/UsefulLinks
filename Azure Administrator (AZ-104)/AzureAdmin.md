@@ -11,6 +11,7 @@
 [Implement and manage hybrid identity](https://learn.microsoft.com/training/modules/implement-manage-hybrid-identity?WT.mc_id=ES-MVP-5002880)
 
 ## Module 2
+
 [Create custom roles for Azure resources with role-based access control (RBAC)](https://learn.microsoft.com/training/modules/create-custom-azure-roles-with-rbac?WT.mc_id=ES-MVP-5002880)
 
 [Manage access to an Azure subscription by using Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/training/modules/manage-subscription-access-azure-rbac?WT.mc_id=ES-MVP-5002880)

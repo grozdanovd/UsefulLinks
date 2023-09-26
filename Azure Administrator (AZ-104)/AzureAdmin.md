@@ -2,6 +2,7 @@
 
 ### Additional links from the trainer materials
 
+[Lab instructions](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator?WT.mc_id=AZ-MVP-5002880)
 ## Module 1
 
 [Allow users to reset their password with Azure Active Directory self-service password reset](https://learn.microsoft.com/training/modules/allow-users-reset-their-password?WT.mc_id=ES-MVP-5002880)

@@ -2,6 +2,8 @@
 
 ## Framework, Tools, Architecture
 
+[Cloud Migration and/or/vs. Cloud transformation (Article)](https://www.ituziast.com/index.php/2023/10/26/cloud-migration-and-or-vs-cloud-transformation/)
+
 [Azure Migrate - Common questions](https://learn.microsoft.com/azure/migrate/common-questions-server-migration?WT.mc_id=AZ-MVP-5002880)
 
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)

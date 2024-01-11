@@ -135,3 +135,9 @@
 [Azure Network Recommendations](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/considerations/networking-options?WT.mc_id=AZ-MVP-5002880)
 
 [Azure savings plans for compute](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/savings-plan-compute-overview?WT.mc_id=AZ-MVP-5002880)
+
+## Trainings, Practice Assessments
+
+[Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)
+
+[Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications#availability?WT.mc_id=AZ-MVP-5002880)

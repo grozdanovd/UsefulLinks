@@ -140,7 +140,7 @@
 
 ## Trainings, Practice Assessments, video turorials/sessions/events
 
-[Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)
+[Training: Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)
 
 [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications#availability?WT.mc_id=AZ-MVP-5002880)
 

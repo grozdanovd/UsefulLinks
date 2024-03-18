@@ -14,6 +14,8 @@
 
 [Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits?WT.mc_id=AZ-MVP-5002880)
 
+[Azure Architecture Center](https://learn.microsoft.com/azure/architecture?)
+
 [Azure Architecture - Naming conventions](https://learn.microsoft.com/azure/architecture/best-practices/naming-conventions?WT.mc_id=AZ-MVP-5002880)
 
 [Microsoft Assessments](https://learn.microsoft.com/assessments?WT.mc_id=AZ-MVP-5002880)
@@ -136,8 +138,10 @@
 
 [Azure savings plans for compute](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/savings-plan-compute-overview?WT.mc_id=AZ-MVP-5002880)
 
-## Trainings, Practice Assessments
+## Trainings, Practice Assessments, video turorials/sessions/events
 
 [Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)
 
 [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications#availability?WT.mc_id=AZ-MVP-5002880)
+
+[Three areas of focus to achieve Azure operational efficiency (Azure Spring Clean 2024 session)](https://www.youtube.com/watch?v=chfhIdXKrKg)

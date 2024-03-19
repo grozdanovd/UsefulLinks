@@ -116,6 +116,8 @@
 
 [Log Analytics in Azure Monitor](https://learn.microsoft.com/azure/azure-monitor/logs/log-analytics-overview?WT.mc_id=AZ-MVP-5002880)
 
+[Design considerations for Azure Log Analytics Workspace (Article)](https://www.ituziast.com/index.php/2022/01/23/design-considerations-for-azure-log-analytics-workspace/)
+
 [Azure Automation](https://learn.microsoft.comazure/automation/overview?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Monitor activity log](https://learn.microsoft.comazure/azure-monitor/essentials/activity-log?WT.mc_id=AZ-MVP-5002880)

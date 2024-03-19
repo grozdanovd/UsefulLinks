@@ -110,6 +110,8 @@
 
 [Azure FinOps: What it is and Why it matters (Article)](https://www.ituziast.com/index.php/2023/02/20/azure-finops-what-it-is-and-why-it-matters)
 
+[Three areas of focus to achieve Azure operational efficiency (Article)](https://www.ituziast.com/index.php/2024/03/08/three-areas-of-focus-to-achieve-azure-operational-efficiency)
+
 [Azure Service Health](https://learn.microsoft.com/azure/service-health/overview?WT.mc_id=AZ-MVP-5002880)
 
 [Azure Monitor overview](https://learn.microsoft.com/azure/azure-monitor/overview?WT.mc_id=AZ-MVP-5002880)

@@ -138,7 +138,7 @@
 
 [Azure savings plans for compute](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/savings-plan-compute-overview?WT.mc_id=AZ-MVP-5002880)
 
-## Trainings, Practice Assessments, video turorials/sessions/events
+## Trainings, Practice Assessments, video tutorials/sessions/events
 
 [Training: Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)
 

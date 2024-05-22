@@ -49,7 +49,7 @@
 ## Session 3
 
 [What is Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=ES-MVP-5002880)\
-[Role-based access control (RBAC) for Azure Virtual Desktop](https://learn.microsoft.com/training/modules/manage-access/2-role-based-access-control-for-azure-virtual-desktop/?WT.mc_id=ES-MVP-5002880)\
+[Role-based access control (RBAC) for Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/rbac?WT.mc_id=AZ-MVP-5002880?WT.mc_id=ES-MVP-5002880)\
 [Using Azure Virtual Desktop with Microsoft Intune](https://learn.microsoft.com/en-us/training/modules/manage-access/4-use-azure-virtual-desktop-with-intune/?WT.mc_id=AZ-MVP-5002880)\
 [Enforce Microsoft Entra ID multifactor authentication for Azure Virtual Desktop using Conditional Access](https://learn.microsoft.com/azure/virtual-desktop/set-up-mfa?WT.mc_id=ES-MVP-5002880)\
 [Azure security best practices and patterns](https://learn.microsoft.com/azure/security/fundamentals/best-practices-and-patterns?WT.mc_id=ES-MVP-5002880)\

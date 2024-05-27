@@ -99,3 +99,4 @@
 [Azure Virtual Desktop (Microsoft Learn Collection)](https://learn.microsoft.com/en-us/collections/zkmncknn57180w?&sharingId=AZ-MVP-5002880)\
 [Azure VM Comparison](https://cloudprice.net/?region=uksouth&currency=EUR)
 [Start/Stop VMs v2 overview](https://learn.microsoft.com/azure/azure-functions/start-stop-vms/overview?WT.mc_id=AZ-MVP-5002880)\
+[PowerShell script to export users that signed in via the Portal or CLI/PowerShell and their MFA status](https://azuread.github.io/MSIdentityTools/commands/Export-MsIdAzureMfaReport?WT.mc_id=ES-MVP-5002880)\

@@ -238,12 +238,9 @@ ___
 
 ## Additional resources
 
-[Microsoft Learn Modules for Microsoft Sentinel](https://learn.microsoft.com/training/browse/?expanded=azure&products=microsoft-sentinel&WT.mc_id=ES-MVP-5002880)
-
-[Microsoft Sentinel skill-up training (Level 400)](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources?WT.mc_id=ES-MVP-5002880)
-
-[Microsoft Applied Skills: Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel?WT.mc_id=ES-MVP-5002880)
-
-[Microsoft Learn Modules for Kusto Query Language (KQL)](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&terms=kusto+query+language&WT.mc_id=AZ-MVP-5002880)
-
+[Microsoft Learn Modules for Microsoft Sentinel](https://learn.microsoft.com/training/browse/?expanded=azure&products=microsoft-sentinel&WT.mc_id=ES-MVP-5002880)\
+[Microsoft Sentinel skill-up training (Level 400)](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources?WT.mc_id=ES-MVP-5002880)\
+[Microsoft Applied Skills: Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel?WT.mc_id=ES-MVP-5002880)\
+[Microsoft Learn Modules for Kusto Query Language (KQL)](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&terms=kusto+query+language&WT.mc_id=AZ-MVP-5002880)\
 [Kusto Detective Agency (interactive game)](https://detective.kusto.io/)
+[PowerShell script to export users that signed in via the Portal or CLI/PowerShell and their MFA status](https://azuread.github.io/MSIdentityTools/commands/Export-MsIdAzureMfaReport?WT.mc_id=ES-MVP-5002880)\

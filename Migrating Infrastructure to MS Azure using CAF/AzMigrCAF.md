@@ -68,7 +68,7 @@
 [Zero Trust Guidance Center](https://learn.microsoft.com/security/zero-trust?WT.mc_id=ES-MVP-5002880)\
 [Azure Data Encryption (at rest)](https://learn.microsoft.com/azure/security/fundamentals/encryption-atrest?WT.mc_id=ES-MVP-5002880)\
 [Azure Network Recommendations](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/considerations/networking-options?WT.mc_id=AZ-MVP-5002880)\
-[Azure savings plans for compute](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/savings-plan-compute-overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure savings plans for compute](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/savings-plan-compute-overview?WT.mc_id=AZ-MVP-5002880)
 
 ## Trainings, Practice Assessments, video tutorials/sessions/events
 

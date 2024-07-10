@@ -78,4 +78,4 @@
 [Three areas of focus to achieve Azure operational efficiency (Azure Spring Clean 2024 session)](https://www.youtube.com/watch?v=chfhIdXKrKg)\
 [Fundamentals of Bicep | Microsoft Learn training](https://learn.microsoft.com/training/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5002880)\
 [Intermediate Bicep | Microsoft Learn training](https://learn.microsoft.com/training/paths/intermediate-bicep/?WT.mc_id=AZ-MVP-5002880)\
-[Advanced Bicep | Microsoft Learn training](https://learn.microsoft.com/training/paths/intermediate-bicep/?WT.mc_id=AZ-MVP-5002880)\
+[Advanced Bicep | Microsoft Learn training](https://learn.microsoft.com/training/paths/intermediate-bicep/?WT.mc_id=AZ-MVP-5002880)

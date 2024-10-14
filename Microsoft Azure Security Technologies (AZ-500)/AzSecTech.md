@@ -9,10 +9,11 @@
 [Exam AZ-500 prep videos](https://learn.microsoft.com/shows/exam-readiness-zone/preparing-for-az-500-manage-identity-and-access-1-of-4/?WT.mc_id=AZ-MVP-5002880)
 
 ### Frameworks
-[Cloud Adoption Framework - Overview](https://docs.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft Azure Cloud Adoption Framework - Overview](https://docs.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft Cyber Security Reference Architecture (MCRA)](https://learn.microsoft.com/security/adoption/mcra?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Zero Trust Model](https://www.microsoft.com/security/business/zero-trust?WT.mc_id=AZ-MVP-5002880)\
 [Zero Trust Guidance Center](https://learn.microsoft.com/security/zero-trust/zero-trust-overview?WT.mc_id=AZ-MVP-5002880)
-
 
 ### Additional links to documentation, tools, articles
 [Microsot Entra](https://www.microsoft.com/security/business/microsoft-entra?WT.mc_id=AZ-MVP-5002880)\

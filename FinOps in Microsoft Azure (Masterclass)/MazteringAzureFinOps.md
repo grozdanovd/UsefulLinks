@@ -6,4 +6,3 @@
 
 
 ## Session 3: Introduction to cost allocation and management in Azure
-

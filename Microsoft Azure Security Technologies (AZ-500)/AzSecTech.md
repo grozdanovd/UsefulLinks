@@ -1,7 +1,8 @@
 ## Microsoft Azure Security Technologies (AZ-500)
 
 ### Azure Secuirty Technologies materials
-[Microsoft Azure Security Technologies (AZ-500) (Collection)](https://learn.microsoft.com/en-us/collections/jk61cz6mo5g0o8?&sharingId=AZ-MVP-5002880)\
+[Microsoft Azure Security Technologies (AZ-500)(Collection)](https://learn.microsoft.com/en-us/collections/jk61cz6mo5g0o8?&sharingId=AZ-MVP-5002880)\
+[Microsoft Azure Security Technologies (AZ-500) Labs | Github](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies?WT.mc_id=AZ-MVP-5002880)\
 [Study guide for Exam AZ-500: Microsoft Azure Security Technologies](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?WT.mc_id=AZ-MVP-5002880%3Fsource%3Drecommendations&practice-assessment-type=certification)\
 [Assess your knowledge](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/practice/assessment?WT.mc_id=AZ-MVP-5002880?assessment-type=practice&assessmentId=57&practice-assessment-type=certification)\

@@ -5,7 +5,7 @@
 [Lab instructions](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator?WT.mc_id=AZ-MVP-5002880)
 
 ## Module 1
-[Allow users to reset their password with Azure Active Directory self-service password reset](https://learn.microsoft.com/training/modules/allow-users-reset-their-password?WT.mc_id=ES-MVP-5002880)\
+[Allow users to reset their password with Entra ID self-service password reset](https://learn.microsoft.com/training/modules/allow-users-reset-their-password?WT.mc_id=ES-MVP-5002880)\
 [Manage device identity with Azure AD join and Enterprise State Roaming](https://learn.microsoft.com/training/modules/manage-device-identity-ad-join?WT.mc_id=ES-MVP-5002880)\
 [Implement and manage hybrid identity](https://learn.microsoft.com/training/modules/implement-manage-hybrid-identity?WT.mc_id=ES-MVP-5002880)
 
@@ -71,24 +71,9 @@
 ## Module 8
 
 [Introduction to Azure virtual machines](https://learn.microsoft.com/training/modules/intro-to-azure-virtual-machines?WT.mc_id=AZ-MVP-5002880)\
-
 [Choose the right disk storage for your virtual machine workload](https://learn.microsoft.com/en-us/training/modules/choose-the-right-disk-storage-for-vm-workload?WT.mc_id=AZ-MVP-5002880)\
 [Linux on Azure (Sandbox)](https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure?WT.mc_id=AZ-MVP-5002880)\
 [Create a Windows virtual machine in Azure (Sandbox)](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure?WT.mc_id=AZ-MVP-5002880)\
 [Connect to virtual machines through the Azure portal by using Azure Bastion](https://learn.microsoft.com/en-us/training/modules/connect-vm-with-azure-bastion?WT.mc_id=AZ-MVP-5002880)\
 [Build a scalable application with Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/training/modules/build-app-with-scale-sets?WT.mc_id=AZ-MVP-5002880)\
 [Implement scale and high availability with Windows Server VM](https://learn.microsoft.com/en-us/training/modules/implement-scale-high-availability-windows-server-virtual-machine?WT.mc_id=AZ-MVP-5002880)
-
-[](?WT.mc_id=AZ-MVP-5002880)
-
-[](?WT.mc_id=AZ-MVP-5002880)
-
-[](?WT.mc_id=AZ-MVP-5002880)
-
-[](?WT.mc_id=AZ-MVP-5002880)
-
-[](?WT.mc_id=AZ-MVP-5002880)
-
-[](?WT.mc_id=AZ-MVP-5002880)
-
-[](?WT.mc_id=AZ-MVP-5002880)

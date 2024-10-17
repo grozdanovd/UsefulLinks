@@ -1,7 +1,6 @@
-# Migrating Infrastructure to Microsoft Azure using Cloud Adoption Framework (CAF)
+## Migrating Infrastructure to Microsoft Azure using Cloud Adoption Framework (CAF)
 
-## Framework, Tools, Architecture
-
+### Framework, Tools, Architecture
 [Cloud Migration and/or/vs. Cloud transformation (Article)](https://www.ituziast.com/index.php/2023/10/26/cloud-migration-and-or-vs-cloud-transformation/)\
 [Azure Migrate - Common questions](https://learn.microsoft.com/azure/migrate/common-questions-server-migration?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)\
@@ -70,8 +69,7 @@
 [Azure Network Recommendations](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/considerations/networking-options?WT.mc_id=AZ-MVP-5002880)\
 [Azure savings plans for compute](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/savings-plan-compute-overview?WT.mc_id=AZ-MVP-5002880)
 
-## Trainings, Practice Assessments, video tutorials/sessions/events
-
+### Trainings, Practice Assessments, video tutorials/sessions/events
 [Training: Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)\
 [Training: Migrate SQL Server workloads to Azure SQL](https://learn.microsoft.comtraining/paths/migrate-sql-workloads-azure?WT.mc_id=AZ-MVP-5002880)\
 [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications#availability?WT.\mc_id=AZ-MVP-5002880)\

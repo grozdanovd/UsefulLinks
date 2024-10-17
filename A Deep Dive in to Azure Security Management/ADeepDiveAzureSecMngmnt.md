@@ -1,9 +1,5 @@
-# A Deep Dive into Azure Security Management
-
-## Day 1
-
-___
-
+## A Deep Dive into Azure Security Management
+### Day 1
 [Cloud Adoption Framework - Overview](https://docs.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)\
 [Cloud Adoption Framework - Strategy](https://docs.microsoft.com/azure/cloud-adoption-framework/strategy?WT.mc_id=AZ-MVP-5002880)\
 [Cloud Adoption Framework - Plan](https://learn.microsoft.com/azure/cloud-adoption-framework/plan?WT.mc_id=AZ-MVP-5002880)\
@@ -30,8 +26,7 @@ ___
 [Power BI Dashboard - Secure Score (GitHub)](https://github.com/Azure/Azure-Security-Center/tree/master/Secure%20Score?WT.mc_id=AZ-MVP-5002880)\
 [Cloud Security Posture Management (CSPM)](https://learn.microsoft.com/azure/defender-for-cloud/concept-cloud-security-posture-management?WT.mc_id=AZ-MVP-5002880)
 
-## Day 2
-
+### Day 2
 [Microsoft Defender for Servers](https://learn.microsoft.com/azure/defender-for-cloud/plan-defender-for-servers-select-plan?WT.mc_id=AZ-MVP-5002880)\
 [Select a Defender for Servers plan](https://learn.microsoft.com/azure/defender-for-cloud/plan-defender-for-servers-select-plan?WT.mc_id=AZ-MVP-5002880)\
 [Quick-start: Connect your AWS accounts to Microsoft Defender for Cloud](https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-aws?WT.mc_id=AZ-MVP-5002880?pivots=env-settings)\
@@ -60,8 +55,7 @@ ___
 [Overview of Microsoft Defender for Key Vault](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-key-vault-introduction?WT.mc_id=AZ-MVP-5002880)\
 [Continuously export Microsoft Defender for Cloud data](https://learn.microsoft.com/azure/defender-for-cloud/continuous-export?WT.mc_id=AZ-MVP-5002880?tabs=azure-portal)
 
-## Day 3
-
+### Day 3
 [Microsoft Zero Trust Model](https://www.microsoft.com/security/business/zero-trust?WT.mc_id=AZ-MVP-5002880)\
 [Zero Trust Guidance Center](https://learn.microsoft.com/security/zero-trust/zero-trust-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure confidential computing](https://learn.microsoft.com/azure/confidential-computing?WT.mc_id=AZ-MVP-5002880)\
@@ -92,8 +86,7 @@ ___
 [Azure Network Watcher](https://learn.microsoft.com/azure/network-watcher/network-watcher-monitoring-overview)\
 [Flow logs for network security groups](https://learn.microsoft.com/azure/network-watcher/network-watcher-nsg-flow-logging-overview?WT.mc_id=AZ-MVP-5002880)\
 
-## Day 4
-
+### Day 4
 [Organize your Azure resources effectively](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?WT.mc_id=AZ-MVP-5002880)\
 [Deploy a cloud governance foundation | Module 7 | Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure training](https://learn.microsoft.com/training/modules/cloud-adoption-framework-govern/7-deploy-governance-foundation?WT.mc_id=AZ-MVP-5002880)\
 [Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits?WT.mc_id=AZ-MVP-5002880)\
@@ -127,8 +120,7 @@ ___
 [KQL quick reference](https://learn.microsoft.com/azure/data-explorer/kql-quick-reference?WT.mc_id=AZ-MVP-5002880)\
 [Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=AZ-MVP-5002880)
 
-## Additional resources
-
+### Additional resources
 [Microsoft Learn Modules for Microsoft Sentinel](https://learn.microsoft.com/training/browse/?expanded=azure&products=microsoft-sentinel&WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Sentinel skill-up training (Level 400)](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Applied Skills: Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel?WT.mc_id=AZ-MVP-5002880)\

@@ -130,4 +130,4 @@
 [Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits?WT.mc_id=AZ-MVP-5002880)\
 [Naming rules and restrictions for Azure resources](https://learn.microsoft.com/azure/azure-resource-manager/management/resource-name-rules?WT.mc_id=AZ-MVP-5002880)\
 [Use tags to organize your Azure resources and management hierarchy](https://learn.microsoft.com/azure/azure-resource-manager/management/tag-resources?WT.mc_id=AZ-MVP-5002880)\
-[Design considerations for Azure Log Analytics Workspace (Article)](https://www.ituziast.com/index.php/2022/01/23/design-considerations-for-azure-log-analytics-workspace/)\
+[Design considerations for Azure Log Analytics Workspace (Article)](https://www.ituziast.com/index.php/2022/01/23/design-considerations-for-azure-log-analytics-workspace/)

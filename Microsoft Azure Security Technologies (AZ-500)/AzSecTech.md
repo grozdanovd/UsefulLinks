@@ -110,7 +110,7 @@
 [Microsoft Sentinel documentation](https://learn.microsoft.com/azure/sentinel/?WT.mc_id=AZ-MVP-5002880)\
 [Connect your data sources to Microsoft Sentinel by using data connectors](https://learn.microsoft.com/azure/sentinel/configure-data-connector?WT.mc_id=AZ-MVP-5002880)\
 [Scheduled analytics rules in Microsoft Sentinel](https://learn.microsoft.com/azure/sentinel/scheduled-rules-overview?WT.mc_id=AZ-MVP-5002880)\
-[Automation in Microsoft Sentinel: Security orchestration, automation, and response (SOAR)](https://learn.microsoft.com/azure/sentinel/automation/automation?WT.mc_id=AZ-MVP-5002880)\
+[Automation in Microsoft Sentinel: Security orchestration, automation, and response (SOAR)](https://learn.microsoft.com/azure/sentinel/automation/automation?WT.mc_id=AZ-MVP-5002880)
 
 ### Frameworks
 [Microsoft Azure Cloud Adoption Framework - Overview](https://docs.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)\

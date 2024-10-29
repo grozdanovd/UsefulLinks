@@ -10,7 +10,6 @@
 [Exam AZ-500 prep videos](https://learn.microsoft.com/shows/exam-readiness-zone/preparing-for-az-500-manage-identity-and-access-1-of-4/?WT.mc_id=AZ-MVP-5002880)
 
 ## Additional materials
-
 ### Learning Path 1
 [Microsot Entra](https://www.microsoft.com/security/business/microsoft-entra?WT.mc_id=AZ-MVP-5002880)\
 [Microsot Entra (Technical Documentation)](https://learn.microsoft.com/entra?WT.mc_id=AZ-MVP-5002880)\
@@ -31,7 +30,6 @@
 [What is Conditional Access?](https://learn.microsoft.com/entra/identity/conditional-access/overview?WT.mc_id=AZ-MVP-5002880)\
 [Register a Microsoft Entra app and create a service principal](https://learn.microsoft.com/entra/identity-platform/howto-create-service-principal-portal?WT.mc_id=AZ-MVP-5002880)
 ### Learning Path 2
-
 [VPN Gateway topology and design](https://learn.microsoft.com/azure/vpn-gateway/design?WT.mc_id=AZ-MVP-5002880)\
 [What is Azure Virtual Network?](https://learn.microsoft.com/azure/virtual-network/virtual-networks-overview?WT.mc_id=AZ-MVP-5002880)\
 [Virtual Network service endpoints](https://learn.microsoft.com/azure/virtual-network/virtual-network-service-endpoints-overview?WT.mc_id=AZ-MVP-5002880)\
@@ -45,10 +43,9 @@
 [What is Azure DDoS Protection?](https://learn.microsoft.com/azure/ddos-protection/ddos-protection-overview?WT.mc_id=AZ-MVP-5002880)
 
 #### Additional Study materials (Learning path 2)
-
 [Encrypt network traffic end to end with Azure Application Gateway | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/end-to-end-encryption-with-app-gateway/?WT.mc_id=AZ-MVP-5002880)\
 [Connect your on-premises network to the Microsoft global network by using ExpressRoute | Microsoft LEarn  Training Module](https://learn.microsoft.com/training/modules/connect-on-premises-network-with-expressroute/?WT.mc_id=AZ-MVP-5002880)\
-[Design a hybrid network architecture on Azure | Microsoft LEarn Training Module](https://learn.microsoft.com/training/modules/design-a-hybrid-network-architecture/?WT.mc_id=AZ-MVP-5002880)\
+[Design a hybrid network architecture on Azure | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/design-a-hybrid-network-architecture/?WT.mc_id=AZ-MVP-5002880)\
 [Secure and isolate access to Azure resources by using network security groups and service endpoints | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/secure-and-isolate-with-nsg-and-service-endpoints/?WT.mc_id=AZ-MVP-5002880)
 ### Learning path 3
 [What is Azure Kubernetes Service (AKS)?](https://learn.microsoft.com/azure/aks/what-is-aks?WT.mc_id=AZ-MVP-5002880)\

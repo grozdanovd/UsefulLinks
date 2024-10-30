@@ -1,3 +1,4 @@
+![alt text](AzureGRCBootcamp.jpg)
 ## Architecture, Governance, Risk and Compliance Bootcamp
 ### Frameworks
 [Microsoft Azure Cloud Adoption Framework - Overview](https://docs.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)\
@@ -24,7 +25,11 @@
 [When would you use Data Box?](https://learn.microsoft.com/azure/databox/data-box-overview/?WT.mc_id=AZ-MVP-5002880)\
 [What other tools can you use to import/export moderate volumes of data?](https://learn.microsoft.com/azure/storage/common/storage-use-azcopy-v10/?WT.mc_id=AZ-MVP-5002880)
 ### Design solutions that align with security best practices and priorities
-[Guiding principles of Zero Trust](https://learn.microsoft.com/azure/security/fundamentals/zero-trust?WT.mc_id=AZ-MVP-5002880#guiding-principles-of-zero-trust)
+[Guiding principles of Zero Trust](https://learn.microsoft.com/azure/security/fundamentals/zero-trust?WT.mc_id=AZ-MVP-5002880#guiding-principles-of-zero-trust)\
+[Azure security technical capabilities](https://learn.microsoft.com/en-us/azure/security/fundamentals/technical-capabilities?WT.mc_id=AZ-MVP-5002880)\
+[Security services and technologies available on Azure](https://learn.microsoft.com/azure/security/fundamentals/services-technologies?WT.mc_id=AZ-MVP-5002880)\
+[Azure security best practices and patterns](https://learn.microsoft.com/azure/security/fundamentals/best-practices-and-patterns?WT.mc_id=AZ-MVP-5002880)\
+[SC-100: Design solutions that align with security best practices and priorities | Microsoft Learn Training Module](https://learn.microsoft.com/en-us/training/paths/sc-100-design-solutions-best-practices-priorities/?WT.mc_id=AZ-MVP-5002880)
 ### Design Authentication and Authorization Solutions
 [Design solutions for identity and access management | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/design-solutions-identity-access-management/?WT.mc_id=AZ-MVP-5002880)\
 [Azure Identity Management Security overview](https://docs.microsoft.com/azure/security/fundamentals/identity-management-overview?WT.mc_id=AZ-MVP-5002880)\
@@ -49,14 +54,23 @@
 [Common scenarios in entitlement management](https://learn.microsoft.com/entra/id-governance/entitlement-management-scenarios?WT.mc_id=AZ-MVP-5002880)\
 [Plan a Microsoft Entra access reviews deployment](https://learn.microsoft.com/entra/id-governance/deploy-access-reviews?WT.mc_id=AZ-MVP-5002880)\
 [What are managed identities for Azure resources?](https://learn.microsoft.com/entra/identity/managed-identities-azure-resources/overview?WT.mc_id=AZ-MVP-5002880)\
-Azure Key Vault basic concepts](https://learn.microsoft.com/azure/key-vault/general/basic-concepts?WT.mc_id=AZ-MVP-5002880)\
+[Azure Key Vault basic concepts](https://learn.microsoft.com/azure/key-vault/general/basic-concepts?WT.mc_id=AZ-MVP-5002880)\
 [Azure Key Vault security](https://learn.microsoft.com/azure/key-vault/general/security-features?WT.mc_id=AZ-MVP-5002880)\
 [Authentication in Azure Key Vault](https://learn.microsoft.com/azure/key-vault/general/authentication?WT.mc_id=AZ-MVP-5002880)\
 [Design authentication and authorization solutions | Case Study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html?WT.mc_id=AZ-MVP-5002880)
 ### Design a Governance solution
+[Govern overview | Cloud adoption Framework for Azure](https://learn.microsoft.com/azure/cloud-adoption-framework/govern/?WT.mc_id=AZ-MVP-5002880)\
+[Design Management Groups](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-management-groups?WT.mc_id=AZ-MVP-5002880)\
+[Subscription considerations and recommendations](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-subscriptions?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Resource Manager?](https://learn.microsoft.com/azure/azure-resource-manager/management/overview?WT.mc_id=AZ-MVP-5002880)\
+[Resource naming and tagging decision guide](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Policy?](https://learn.microsoft.com/azure/governance/policy/overview?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure role-based access control (Azure RBAC)?](https://learn.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure attribute-based access control (Azure ABAC)?](https://learn.microsoft.com/azure/role-based-access-control/conditions-overview?WT.mc_id=AZ-MVP-5002880)\
+[What is an Azure landing zone?](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/?WT.mc_id=AZ-MVP-5002880)
 ### Design a Compute solution
 [Choose an Azure compute service](https://learn.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=AZ-MVP-5002880)\
-[Design an Azure compute solution | Microsoft Learn Training](https://learn.microsoft.com/training/modules/design-compute-solution/?WT.mc_id=AZ-MVP-5002880)\
+[Design an Azure compute solution | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/design-compute-solution/?WT.mc_id=AZ-MVP-5002880)\
 [Virtual machines in Azure](https://learn.microsoft.com/azure/virtual-machines/overview?WT.mc_id=AZ-MVP-5002880)\
 [Sizes for virtual machines in Azure](https://learn.microsoft.com/azure/virtual-machines/sizes/overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Arc overview](https://learn.microsoft.com/azure/azure-arc/overview?WT.mc_id=AZ-MVP-5002880)\
@@ -68,20 +82,46 @@ Azure Key Vault basic concepts](https://learn.microsoft.com/azure/key-vault/gene
 [Azure Functions overview](https://learn.microsoft.com/azure/azure-functions/functions-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Functions scenarios](https://learn.microsoft.com/azure/azure-functions/functions-scenarios?WT.mc_id=AZ-MVP-5002880)\
 [What is Azure Logic Apps?](https://learn.microsoft.com/azure/logic-apps/logic-apps-overview?WT.mc_id=AZ-MVP-5002880)
-
 ### Design a Non-relational Data Storage solution
-
+[Design a data storage solution for non-relational data | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/design-data-storage-solution-for-non-relational-data/?WT.mc_id=AZ-MVP-5002880)\
+[Introduction to Azure Storage](https://learn.microsoft.com/azure/storage/common/storage-introduction?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)\
+[Azure Storage redundancy](https://learn.microsoft.com/azure/storage/common/storage-redundancy?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)\
+[Introduction to Azure Blob Storage](https://learn.microsoft.com/azure/storage/blobs/storage-blobs-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Access tiers for blob data](https://learn.microsoft.com/azure/storage/blobs/access-tiers-overview?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Files?](https://learn.microsoft.com/azure/storage/files/storage-files-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Compare access to Azure Files, Blob Storage, and Azure NetApp Files with NFS](https://learn.microsoft.com/azure/storage/common/nfs-comparison?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)\
+[Storage Tiers](https://learn.microsoft.com/azure/storage/files/storage-files-planning?WT.mc_id=AZ-MVP-5002880)\
+[When to use Azure NetApp Files | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/introduction-to-azure-netapp-files/4-when-to-use-azure-netapp-files?WT.mc_id=AZ-MVP-5002880)\
+[Azure managed disk types](https://learn.microsoft.com/azure/virtual-machines/disks-types?WT.mc_id=AZ-MVP-5002880)\
+[Select storage tools and services to support your workloads](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/storage-options?WT.mc_id=AZ-MVP-5002880#select-storage-tools-and-services-to-support-your-workloads)\
+[Authorize access to data in Azure Storage](https://learn.microsoft.com/azure/storage/common/authorize-data-access?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)\
+[Security recommendations for Blob storage](https://learn.microsoft.com/azure/storage/blobs/security-recommendations?WT.mc_id=AZ-MVP-5002880)
 ### Design a Data Storage solution for Relational Data
+[Features comparison: Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/azure/azure-sql/database/features-comparison?view=azuresql&WT.mc_id=AZ-MVP-5002880)\
+[Compare vCore and DTU-based purchasing models of Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/database/purchasing-models?view=azuresql&WT.mc_id=AZ-MVP-5002880)\
+[Overview of business continuity with Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview?view=azuresql&WT.mc_id=AZ-MVP-5002880)\
+[An overview of Azure SQL Database and SQL Managed Instance security capabilities](https://learn.microsoft.com/azure/azure-sql/database/security-overview?view=azuresql&WT.mc_id=AZ-MVP-5002880)\
+[What is Azure SQL Edge?](https://learn.microsoft.com/azure/azure-sql-edge/overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure Cosmos DB - Database for the AI Era](https://learn.microsoft.com/azure/cosmos-db/introduction?WT.mc_id=AZ-MVP-5002880)\
+[Considerations when choosing an API](https://learn.microsoft.com/azure/cosmos-db/choose-api?WT.mc_id=AZ-MVP-5002880#considerations-when-choosing-an-api)
 ### Design a Data Integration solution
-
+[Design data integration | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/design-data-integration/?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Data Factory?](https://learn.microsoft.com/azure/data-factory/introduction?WT.mc_id=AZ-MVP-5002880)\
+[Introduction to Azure Data Lake Storage](https://learn.microsoft.com/azure/storage/blobs/data-lake-storage-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Blob Storage feature support in Azure Storage accounts](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Databricks?](https://learn.microsoft.com/azure/databricks/introduction/?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Synapse Analytics?](https://learn.microsoft.com/azure/synapse-analytics/overview-what-is?WT.mc_id=AZ-MVP-5002880)\
+[Data integration in Azure Synapse Analytics versus Azure Data Factory](https://learn.microsoft.com/azure/synapse-analytics/data-integration/concepts-data-factory-differences?WT.mc_id=AZ-MVP-5002880)\
+[Comparing Azure Databricks and Azure Synapse Analytics](https://learn.microsoft.com/data-engineering/playbook/articles/databricks-vs-synapse?WT.mc_id=AZ-MVP-5002880)\
+[Azure Stream Analytics](https://learn.microsoft.com/azure/stream-analytics/stream-analytics-introduction?WT.mc_id=AZ-MVP-5002880)
 ### Design an Application Architecture solution
-[Design an application architecture | microsoft Learn Training](https://learn.microsoft.com/en-us/training/modules/design-application-architecture/?WT.mc_id=AZ-MVP-5002880)\
+[Design an application architecture | microsoft Learn Training Module](https://learn.microsoft.com/en-us/training/modules/design-application-architecture/?WT.mc_id=AZ-MVP-5002880)\
 [Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/compare-messaging-services?WT.mc_id=AZ-MVP-5002880)\
 [Design for Azure Queue storage](https://learn.microsoft.com/azure/storage/queues/storage-queues-introduction?WT.mc_id=AZ-MVP-5002880)\
 [Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-messaging-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Event Hubs](https://learn.microsoft.com/azure/event-hubs/?WT.mc_id=AZ-MVP-5002880)\
 [Azure Event Grid](https://learn.microsoft.com/azure/event-grid/overview?WT.mc_id=AZ-MVP-5002880)\
-[When to use IoT Hub | Microsoft Learn Training](https://learn.microsoft.com/training/modules/introduction-to-iot-hub/4-when-to-use-iot-hub?WT.mc_id=AZ-MVP-5002880)\
+[When to use IoT Hub | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/introduction-to-iot-hub/4-when-to-use-iot-hub?WT.mc_id=AZ-MVP-5002880)\
 [Azure Cache for Redis](https://learn.microsoft.com/azure/azure-cache-for-redis/cache-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure API Management](https://learn.microsoft.com/azure/api-management/api-management-key-concepts?WT.mc_id=AZ-MVP-5002880)\
 [Infrastructure as a Code (IaC)](https://learn.microsoft.com/devops/deliver/what-is-infrastructure-as-code?WT.mc_id=AZ-MVP-5002880)\
@@ -91,7 +131,7 @@ Azure Key Vault basic concepts](https://learn.microsoft.com/azure/key-vault/gene
 [What is Azure DevOps?](https://learn.microsoft.com/azure/devops/user-guide/what-is-azure-devops?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&view=azure-devops&WT.mc_id=AZ-MVP-5002880)\
 [What is Azure App Configuration?](https://learn.microsoft.com/azure/azure-app-configuration/overview?WT.mc_id=AZ-MVP-5002880)
 ### Design a Business Continuity and Disaster Recovery (BCDR) solution
-[Design a solution for backup and disaster recovery | Microsoft Learn Training](https://learn.microsoft.com/training/modules/design-solution-for-backup-disaster-recovery/?WT.mc_id=AZ-MVP-5002880)\
+[Design a solution for backup and disaster recovery | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/design-solution-for-backup-disaster-recovery/?WT.mc_id=AZ-MVP-5002880)\
 [Business continuity and disaster recovery | Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/management-business-continuity-disaster-recovery?WT.mc_id=AZ-MVP-5002880)\
 [Azure Recovery Services Vault](https://learn.microsoft.com/azure/backup/backup-azure-recovery-services-vault-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Blob storage Data protection](https://learn.microsoft.com/azure/storage/blobs/data-protection-overview?WT.mc_id=AZ-MVP-5002880)\
@@ -116,4 +156,4 @@ Azure Key Vault basic concepts](https://learn.microsoft.com/azure/key-vault/gene
 ### Additional links, articles, trainings, etc
 [Cloud adoption in the era of accelerated Digital Transformation (Article)](https://www.ituziast.com/index.php/2020/04/17/cloud-adoption-in-the-era-of-accelerated-digital-transformation-part-1/)\
 [Cloud Migration and/or/vs. Cloud transformation (Article)](https://www.ituziast.com/index.php/2023/10/26/cloud-migration-and-or-vs-cloud-transformation/)\
-[Three areas of focus to achieve Azure operational efficiency (Azure Spring Clean 2024 session)](https://www.youtube.com/watch?v=chfhIdXKrKg)\
+[Three areas of focus to achieve Azure operational efficiency (Azure Spring Clean 2024 session)](https://www.youtube.com/watch?v=chfhIdXKrKg)

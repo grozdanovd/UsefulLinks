@@ -54,7 +54,65 @@ Azure Key Vault basic concepts](https://learn.microsoft.com/azure/key-vault/gene
 [Authentication in Azure Key Vault](https://learn.microsoft.com/azure/key-vault/general/authentication?WT.mc_id=AZ-MVP-5002880)\
 [Design authentication and authorization solutions | Case Study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html?WT.mc_id=AZ-MVP-5002880)
 ### Design a Governance solution
+### Design a Compute solution
+[Choose an Azure compute service](https://learn.microsoft.com/azure/architecture/guide/technology-choices/compute-decision-tree?WT.mc_id=AZ-MVP-5002880)\
+[Design an Azure compute solution | Microsoft Learn Training](https://learn.microsoft.com/training/modules/design-compute-solution/?WT.mc_id=AZ-MVP-5002880)\
+[Virtual machines in Azure](https://learn.microsoft.com/azure/virtual-machines/overview?WT.mc_id=AZ-MVP-5002880)\
+[Sizes for virtual machines in Azure](https://learn.microsoft.com/azure/virtual-machines/sizes/overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure Arc overview](https://learn.microsoft.com/azure/azure-arc/overview?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Batch?](https://learn.microsoft.com/azure/batch/batch-technical-overview?WT.mc_id=AZ-MVP-5002880)\
+[App Service overview](https://learn.microsoft.com/azure/app-service/overview?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Container Instances?](https://learn.microsoft.com/azure/container-instances/container-instances-overview?WT.mc_id=AZ-MVP-5002880)\
+[Introduction to Azure Container Registry](https://learn.microsoft.com/azure/container-registry/container-registry-intro?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Kubernetes Service (AKS)?](https://learn.microsoft.com/azure/aks/what-is-aks?WT.mc_id=AZ-MVP-5002880)\
+[Azure Functions overview](https://learn.microsoft.com/azure/azure-functions/functions-overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure Functions scenarios](https://learn.microsoft.com/azure/azure-functions/functions-scenarios?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure Logic Apps?](https://learn.microsoft.com/azure/logic-apps/logic-apps-overview?WT.mc_id=AZ-MVP-5002880)
 
+### Design a Non-relational Data Storage solution
+
+### Design a Data Storage solution for Relational Data
+### Design a Data Integration solution
+
+### Design an Application Architecture solution
+[Design an application architecture | microsoft Learn Training](https://learn.microsoft.com/en-us/training/modules/design-application-architecture/?WT.mc_id=AZ-MVP-5002880)\
+[Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/compare-messaging-services?WT.mc_id=AZ-MVP-5002880)\
+[Design for Azure Queue storage](https://learn.microsoft.com/azure/storage/queues/storage-queues-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Azure Service Bus](https://learn.microsoft.com/azure/service-bus-messaging/service-bus-messaging-overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure Event Hubs](https://learn.microsoft.com/azure/event-hubs/?WT.mc_id=AZ-MVP-5002880)\
+[Azure Event Grid](https://learn.microsoft.com/azure/event-grid/overview?WT.mc_id=AZ-MVP-5002880)\
+[When to use IoT Hub | Microsoft Learn Training](https://learn.microsoft.com/training/modules/introduction-to-iot-hub/4-when-to-use-iot-hub?WT.mc_id=AZ-MVP-5002880)\
+[Azure Cache for Redis](https://learn.microsoft.com/azure/azure-cache-for-redis/cache-overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure API Management](https://learn.microsoft.com/azure/api-management/api-management-key-concepts?WT.mc_id=AZ-MVP-5002880)\
+[Infrastructure as a Code (IaC)](https://learn.microsoft.com/devops/deliver/what-is-infrastructure-as-code?WT.mc_id=AZ-MVP-5002880)\
+[What are Azure Resource Manager (ARM) templates?](https://learn.microsoft.com/azure/azure-resource-manager/templates/overview?WT.mc_id=AZ-MVP-5002880)\
+[What is Bicep?](https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?WT.mc_id=AZ-MVP-5002880)\
+[Use infrastructure automation tools with Virtual Machines in Azure](https://learn.microsoft.com/azure/virtual-machines/infrastructure-automation?WT.mc_id=AZ-MVP-5002880)\
+[What is Azure DevOps?](https://learn.microsoft.com/azure/devops/user-guide/what-is-azure-devops?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&view=azure-devops&WT.mc_id=AZ-MVP-5002880)\
+[What is Azure App Configuration?](https://learn.microsoft.com/azure/azure-app-configuration/overview?WT.mc_id=AZ-MVP-5002880)
+### Design a Business Continuity and Disaster Recovery (BCDR) solution
+[Design a solution for backup and disaster recovery | Microsoft Learn Training](https://learn.microsoft.com/training/modules/design-solution-for-backup-disaster-recovery/?WT.mc_id=AZ-MVP-5002880)\
+[Business continuity and disaster recovery | Cloud Adoption Framework for Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/management-business-continuity-disaster-recovery?WT.mc_id=AZ-MVP-5002880)\
+[Azure Recovery Services Vault](https://learn.microsoft.com/azure/backup/backup-azure-recovery-services-vault-overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure Blob storage Data protection](https://learn.microsoft.com/azure/storage/blobs/data-protection-overview?WT.mc_id=AZ-MVP-5002880)\
+[Use share snapshots with Azure Files](https://learn.microsoft.com/azure/storage/files/storage-snapshots-files?WT.mc_id=AZ-MVP-5002880)\
+[What is the Azure Backup service?](https://learn.microsoft.com/azure/backup/backup-overview?WT.mc_id=AZ-MVP-5002880)\
+[An overview of Azure VM backup](https://learn.microsoft.com/azure/backup/backup-azure-vms-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Automated backups in Azure SQL Database](https://learn.microsoft.com/azure/azure-sql/database/automated-backups-overview?view=azuresql&WT.mc_id=AZ-MVP-5002880)\
+[Azure Site Recovery](https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?WT.mc_id=AZ-MVP-5002880)
+### Manage Security Posture by using Microsoft Defender for Cloud
+[What is Microsoft Defender for Cloud?](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-cloud-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Planning and operations guide](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-cloud-planning-and-operations-guide?WT.mc_id=AZ-MVP-5002880)\
+[Plan your Defender for Servers deployment](https://learn.microsoft.com/azure/defender-for-cloud/plan-defender-for-servers?WT.mc_id=AZ-MVP-5002880)\
+[Overview of Defender for App Service to protect your Azure App Service web apps and APIs](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-app-service-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Overview of Microsoft Defender for Storage](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-storage-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Protect your databases with Defender for Databases](https://learn.microsoft.com/azure/defender-for-cloud/tutorial-enable-databases-plan?WT.mc_id=AZ-MVP-5002880)
+[Overview-Container protection in Defender for Cloud](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-containers-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Overview of Microsoft Defender for Key Vault](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-key-vault-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Overview of Microsoft Defender for Resource Manager](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-resource-manager-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Overview of Microsoft Defender for DNS](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-dns-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Overview of Microsoft Defender for Cloud DevOps security](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction?WT.mc_id=AZ-MVP-5002880)\
+[Overview - AI threat protection](https://learn.microsoft.com/azure/defender-for-cloud/ai-threat-protection?WT.mc_id=AZ-MVP-5002880)
 ### Additional links, articles, trainings, etc
 [Cloud adoption in the era of accelerated Digital Transformation (Article)](https://www.ituziast.com/index.php/2020/04/17/cloud-adoption-in-the-era-of-accelerated-digital-transformation-part-1/)\
 [Cloud Migration and/or/vs. Cloud transformation (Article)](https://www.ituziast.com/index.php/2023/10/26/cloud-migration-and-or-vs-cloud-transformation/)\

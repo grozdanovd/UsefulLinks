@@ -44,7 +44,7 @@
 [Introduction to Microsoft Entra External ID](https://learn.microsoft.com/entra/external-id/external-identities-overview?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Entra B2B best practices](https://learn.microsoft.com/entra/external-id/b2b-fundamentals?WT.mc_id=AZ-MVP-5002880)\
 [What is Azure Active Directory B2C?](https://learn.microsoft.com/azure/active-directory-b2c/overview?WT.mc_id=AZ-MVP-5002880)\
-[AuWhat is Microsoft Entra authentication?](hhttps://learn.microsoft.com/entra/identity/authentication/overview-authentication?WT.mc_id=AZ-MVP-5002880)\
+[What is Microsoft Entra authentication?](hhttps://learn.microsoft.com/entra/identity/authentication/overview-authentication?WT.mc_id=AZ-MVP-5002880)\
 [What is Microsoft Entra Connect?](https://learn.microsoft.com/entra/identity/hybrid/connect/whatis-azure-ad-connect?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Entra Connect Sync](https://learn.microsoft.com/entra/identity/hybrid/connect/how-to-connect-sync-whatis?WT.mc_id=AZ-MVP-5002880)\
 [Choose the right authentication method for your Microsoft Entra hybrid identity solution](https://learn.microsoft.com/entra/identity/hybrid/connect/choose-ad-authn?WT.mc_id=AZ-MVP-5002880)\

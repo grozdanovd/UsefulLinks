@@ -4,5 +4,4 @@
 
 ### Session 2: Setting up cost management  
 
-
 ### Session 3: Introduction to cost allocation and management in Azure

@@ -39,7 +39,7 @@
 ### Design Authentication and Authorization Solutions
 
 [Design solutions for identity and access management | Microsoft Learn Training Module](https://learn.microsoft.com/training/modules/design-solutions-identity-access-management/?WT.mc_id=AZ-MVP-5002880)\
-[Azure Identity Management Security overview](https://docs.microsoft.com/azure/security/fundamentals/identity-management-overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure Identity Management Security overview](https://learn.microsoft.com/azure/security/fundamentals/identity-management-overview?WT.mc_id=AZ-MVP-5002880)\
 [What is Microsoft Entra ID?](https://learn.microsoft.com/entra/fundamentals/whatis?WT.mc_id=AZ-MVP-5002880)\
 [Introduction to Microsoft Entra External ID](https://learn.microsoft.com/entra/external-id/external-identities-overview?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Entra B2B best practices](https://learn.microsoft.com/entra/external-id/b2b-fundamentals?WT.mc_id=AZ-MVP-5002880)\
@@ -182,6 +182,5 @@
 [Cloud adoption in the era of accelerated Digital Transformation (Article)](https://www.ituziast.com/index.php/2020/04/17/cloud-adoption-in-the-era-of-accelerated-digital-transformation-part-1/)\
 [Cloud Migration and/or/vs. Cloud transformation (Article)](https://www.ituziast.com/index.php/2023/10/26/cloud-migration-and-or-vs-cloud-transformation/)\
 [Three areas of focus to achieve Azure operational efficiency (Azure Spring Clean 2024 session)](https://www.youtube.com/watch?v=chfhIdXKrKg)
-
 
 [def]: \pic\AzureGRCBootcamp.jpg

@@ -1,5 +1,4 @@
 ![Azure Cost Governance Masterclass](./Pics/AzFinOpsMasterclass.jpg)
-
 ## Day 1
 ### Chapter 1: Introduction to FinOps
 [What is Azure FinOps?](https://learn.microsoft.com/cloud-computing/finops/overview?WT.mc_id=AZ-MVP-5002880)\
@@ -57,7 +56,6 @@
 [Charges covered by reservation](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=AZ-MVP-5002880#charges-covered-by-reservation)\
 [Azure savings plans for compute](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/savings-plan-compute-overview?WT.mc_id=AZ-MVP-5002880)\
 [Decide between a savings plan and a reservation](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/decide-between-savings-plan-reservation?WT.mc_id=AZ-MVP-5002880)
-
 ### Additional materials
 [Azure Finops Masterclass | Microsoft Learn Collection](https://learn.microsoft.com/en-us/collections/rq2db8wo0ox33e?&sharingId=AZ-MVP-5002880)\
 [Azure FinOps: What it is and Why it matters (Article)](https://www.ituziast.com/index.php/2023/02/20/azure-finops-what-it-is-and-why-it-matters)

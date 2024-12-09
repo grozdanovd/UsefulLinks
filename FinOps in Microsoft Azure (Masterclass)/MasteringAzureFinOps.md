@@ -16,7 +16,7 @@
 [Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits?WT.mc_id=AZ-MVP-5002880)
 ### Chapter 2: Understanding Azure usage, billing and costs
 [Understand cloud usage and cost](https://learn.microsoft.com/en-us/cloud-computing/finops/framework/understand/understand-cloud-usage-cost)\
-[Data ingestion](https://learn.microsoft.com/cloud-computing/finops/framework/understand/ingestion?WT.mc_id=AZ-MVP-5002880)
+[Data ingestion](https://learn.microsoft.com/cloud-computing/finops/framework/understand/ingestion?WT.mc_id=AZ-MVP-5002880)\
 [FinOps Open Cost and Usage Specification (FOCUS)](https://learn.microsoft.com/en-us/cloud-computing/finops/focus/what-is-focus?WT.mc_id=AZ-MVP-5002880)\
 [Cost Allocation](https://learn.microsoft.com/cloud-computing/finops/framework/understand/allocation?WT.mc_id=AZ-MVP-5002880)\
 [Reporting/Analytics](https://learn.microsoft.com/cloud-computing/finops/framework/understand/reporting?WT.mc_id=AZ-MVP-5002880)\
@@ -43,7 +43,7 @@
 [Microsoft Cost Management connector in Power BI Desktop](https://learn.microsoft.com/power-bi/connect-data/desktop-connect-azure-cost-management?WT.mc_id=AZ-MVP-5002880)
 ## Day 2
 ### Chapter 5: Optimization and Cost-Saving Techniques
-[Cost optimization quick links | Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/cost-optimization/?WT.mc_id=AZ-MVP-5002880)
+[Cost optimization quick links | Azure Well-Architected Framework](https://learn.microsoft.com/azure/well-architected/cost-optimization/?WT.mc_id=AZ-MVP-5002880)\
 [Azure management groups](https://learn.microsoft.com/azure/governance/management-groups/overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Policy](https://learn.microsoft.com/azure/governance/policy/overview?WT.mc_id=AZ-MVP-5002880)\
 [Policy enforcement decision guide](https://learn.microsoft.com/azure/cloud-adoption-framework/decision-guides/policy-enforcement?WT.mc_id=AZ-MVP-5002880)\
@@ -57,8 +57,8 @@
 [Azure savings plans for compute](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/savings-plan-compute-overview?WT.mc_id=AZ-MVP-5002880)\
 [Decide between a savings plan and a reservation](https://learn.microsoft.com/azure/cost-management-billing/savings-plan/decide-between-savings-plan-reservation?WT.mc_id=AZ-MVP-5002880)
 ### Additional materials
-[Azure Finops Masterclass | Microsoft Learn Collection](https://learn.microsoft.com/en-us/collections/rq2db8wo0ox33e?&sharingId=AZ-MVP-5002880)\
-[Azure FinOps: What it is and Why it matters (Article)](https://www.ituziast.com/index.php/2023/02/20/azure-finops-what-it-is-and-why-it-matters)
+[Azure FinOps Masterclass | Microsoft Learn Collection](https://learn.microsoft.com/en-us/collections/rq2db8wo0ox33e?&sharingId=AZ-MVP-5002880)\
+[Azure FinOps: What it is and Why it matters (Article)](https://www.ituziast.com/index.php/2023/02/20/azure-finops-what-it-is-and-why-it-matters)\
 [Cloud adoption in the era of accelerated Digital Transformation (Article)](https://www.ituziast.com/index.php/2020/04/17/cloud-adoption-in-the-era-of-accelerated-digital-transformation-part-1/)\
 [Microsoft Assessments](https://learn.microsoft.com/assessments?WT.mc_id=AZ-MVP-5002880)\
 [CAF Tools and templates](https://learn.microsoft.com/azure/cloud-adoption-framework/resources/tools-templates?WT.mc_id=AZ-MVP-5002880)\

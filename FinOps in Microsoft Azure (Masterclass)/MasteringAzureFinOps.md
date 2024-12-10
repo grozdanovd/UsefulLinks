@@ -1,4 +1,4 @@
-![Azure Cost Governance Masterclass](Pic\AzFinOpsMasterclass.jpg)
+![Azure Cost Governance Masterclass](Pic/AzFinOpsMasterclass.jpg)
 ## Day 1
 ### Chapter 1: Introduction to FinOps
 [What is Azure FinOps?](https://learn.microsoft.com/cloud-computing/finops/overview?WT.mc_id=AZ-MVP-5002880)\

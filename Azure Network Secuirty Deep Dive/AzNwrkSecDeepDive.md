@@ -31,7 +31,7 @@
 [Azure Private Link](https://learn.microsoft.com/azure/private-link/private-link-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure encryption overview](https://learn.microsoft.com/azure/security/fundamentals/encryption-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Storage encryption for data at rest](https://learn.microsoft.com/azure/storage/common/storage-service-encryption?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)\
-[Grant limited access to Azure Storage resources using shared access signatures (SAS)\](https://learn.microsoft.com/azure/storage/common/storage-sas-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)\
+[Grant limited access to Azure Storage resources using shared access signatures (SAS)](https://learn.microsoft.com/azure/storage/common/storage-sas-overview?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&bc=%2Fazure%2Fstorage%2Fblobs%2Fbreadcrumb%2Ftoc.json&WT.mc_id=AZ-MVP-5002880)\
 [Azure Load-balancing options](https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Load Balancer](https://learn.microsoft.com/azure/load-balancer/load-balancer-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Traffic Manager](https://learn.microsoft.com/azure/traffic-manager/traffic-manager-overview?WT.mc_id=AZ-MVP-5002880)\

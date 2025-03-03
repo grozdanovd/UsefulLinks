@@ -84,7 +84,7 @@
 [Azure Web Application Firewall on Azure Front Door](https://learn.microsoft.com/azure/web-application-firewall/afds/afds-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure best practices for network security](https://learn.microsoft.com/azure/security/fundamentals/network-best-practices?WT.mc_id=AZ-MVP-5002880)\
 [Azure Network Watcher](https://learn.microsoft.com/azure/network-watcher/network-watcher-monitoring-overview)\
-[Flow logs for network security groups](https://learn.microsoft.com/azure/network-watcher/network-watcher-nsg-flow-logging-overview?WT.mc_id=AZ-MVP-5002880)\
+[Flow logs for network security groups](https://learn.microsoft.com/azure/network-watcher/network-watcher-nsg-flow-logging-overview?WT.mc_id=AZ-MVP-5002880)
 
 ### Day 4
 [Organize your Azure resources effectively](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?WT.mc_id=AZ-MVP-5002880)\

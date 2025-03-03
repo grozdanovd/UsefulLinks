@@ -1,4 +1,4 @@
-![Architecture, Governance, Risk and Compliance Bootcamp title screenshot](./Pics/AzureGRCBootcamp.jpg)
+![Architecture, Governance, Risk and Compliance Bootcamp title screenshot](Pic/AzureGRCBootcamp.jpg)
 
 ### Frameworks
 

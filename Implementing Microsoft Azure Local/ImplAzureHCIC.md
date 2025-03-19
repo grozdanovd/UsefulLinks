@@ -50,7 +50,8 @@
 [Multiple forests with AD DS and Microsoft Entra ID (Architecture)](https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/multi-forest?WT.mc_id=AZ-MVP-5002880)\
 [Multiple forests with AD DS, Microsoft Entra ID, and Microsoft Entra Domain Services (Architecture)](https://learn.microsoft.com/azure/architecture/example-scenario/azure-virtual-desktop/multi-forest-azure-managed?WT.mc_id=AZ-MVP-5002880)\
 [Licensing Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/licensing?WT.mc_id=AZ-MVP-5002880)\
-[Understand and estimate costs for Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/understand-estimate-costs?WT.mc_id=AZ-MVP-5002880)
+[Understand and estimate costs for Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/understand-estimate-costs?WT.mc_id=AZ-MVP-5002880)\
+[Azure Monitor Community | Azure Services | GitHub Repo](https://github.com/microsoft/AzureMonitorCommunity/tree/master/Azure%20Services?WT.mc_id=AZ-MVP-5002880)
 
 ## Trainings, tools, additional information and resources
 [Azure Virtual Desktop (Microsoft Learn Collection)](https://learn.microsoft.com/en-us/collections/zkmncknn57180w?&sharingId=AZ-MVP-5002880)\

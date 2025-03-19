@@ -1,7 +1,6 @@
 # Implementing Azure Virtual Desktop in the Enterprise
 
 ## Session 1
-
 [What is virtual desktop infrastructure (VDI)?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-virtual-desktop-infrastructure-vdi?WT.mc_id=AZ-MVP-5002880)\
 [What is Azure Virtual Desktop?](https://learn.microsoft.com/azure/virtual-desktop/overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)\
@@ -21,7 +20,6 @@
 [Understand and estimate costs for Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/understand-estimate-costs?WT.mc_id=AZ-MVP-5002880)
 
 ## Session 2
-
 [Azure Networking](https://learn.microsoft.com/azure/virtual-network/virtual-networks-overview?WT.mc_id=AZ-MVP-5002880)\
 [Implement Azure virtual network connectivity (AVD)](https://learn.microsoft.com/training/modules/implement-manage-networking-azure-virtual-desktop/?WT.mc_id=AZ-MVP-5002880)\
 [Manage connectivity to the internet and on-premises networks](https://learn.microsoft.com/training/modules/implement-manage-networking-azure-virtual-desktop/?WT.mc_id=AZ-MVP-5002880)\
@@ -47,7 +45,6 @@
 [Store and share resources in an Azure Compute Gallery](https://learn.microsoft.com/azure/virtual-machines/azure-compute-gallery?WT.mc_id=AZ-MVP-5002880)
 
 ## Session 3
-
 [What is Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=ES-MVP-5002880)\
 [Role-based access control (RBAC) for Azure Virtual Desktop](https://learn.microsoft.com/azure/virtual-desktop/rbac?WT.mc_id=AZ-MVP-5002880?WT.mc_id=ES-MVP-5002880)\
 [Using Azure Virtual Desktop with Microsoft Intune](https://learn.microsoft.com/en-us/training/modules/manage-access/4-use-azure-virtual-desktop-with-intune/?WT.mc_id=AZ-MVP-5002880)\
@@ -79,7 +76,6 @@
 [Troubleshoot application issues for Azure Virtual Desktop](https://learn.microsoft.com/training/modules/install-configure-apps-session-host/10-troubleshoot-application-issues-user-input-delay/?WT.mc_id=AZ-MVP-5002880)
 
 ## Session 4
-
 [Disaster recovery for Azure Virtual Desktop](https://learn.microsoft.com/training/modules/plan-implement-business-continuity-disaster-recovery/2-disaster-recovery-for-azure-virtual-desktop/?WT.mc_id=AZ-MVP-5002880)\
 [Identify the components to protect](https://learn.microsoft.com/training/modules/business-continuity-disaster-recovery-azure-virtual-desktop/2-identify-components-to-protect/?WT.mc_id=AZ-MVP-5002880)\
 [Develop a BCDR plan for Azure Virtual Desktop](https://learn.microsoft.com/training/modules/business-continuity-disaster-recovery-azure-virtual-desktop/3-develop-bcdr-plan-azure-virtual-desktop?WT.mc_id=AZ-MVP-5002880)\
@@ -95,7 +91,6 @@
 [Azure Virtual Desktop with Azure Stack HCI](https://learn.microsoft.com/azure/virtual-desktop/azure-stack-hci-overview?WT.mc_id=AZ-MVP-5002880)
 
 ## Trainings, tools, additional information and resources
-
 [Azure Virtual Desktop (Microsoft Learn Collection)](https://learn.microsoft.com/en-us/collections/zkmncknn57180w?&sharingId=AZ-MVP-5002880)\
 [Azure VM Comparison](https://cloudprice.net/?region=uksouth&currency=EUR)
 [Start/Stop VMs v2 overview](https://learn.microsoft.com/azure/azure-functions/start-stop-vms/overview?WT.mc_id=AZ-MVP-5002880)\

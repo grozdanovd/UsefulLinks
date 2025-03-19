@@ -54,4 +54,5 @@
 
 ## Trainings, tools, additional information and resources
 [Azure Virtual Desktop (Microsoft Learn Collection)](https://learn.microsoft.com/en-us/collections/zkmncknn57180w?&sharingId=AZ-MVP-5002880)\
-[Azure VM Comparison](https://cloudprice.net/?region=westeurope&currency=EUR)
+[Azure VM Comparison](https://cloudprice.net/?region=westeurope&currency=EUR)\
+[Azure Arc-enabled Infrastructure Technical Event Series](https://learn.microsoft.com/en-us/shows/azure-arc-hybrid-infrastructure-technical-event-series/?WT.mc_id=AZ-MVP-5002880)

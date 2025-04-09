@@ -1,4 +1,4 @@
-## A Deep Dive into Azure Security Management
+![A Deep Dive into Azure Security Management](Pic/ADeepDiveintoAzureSecurityManagement.png)## A Deep Dive into Azure Security Management
 ### Day 1
 [Cloud Adoption Framework - Overview](https://docs.microsoft.com/azure/cloud-adoption-framework/overview?WT.mc_id=AZ-MVP-5002880)\
 [Cloud Adoption Framework - Strategy](https://docs.microsoft.com/azure/cloud-adoption-framework/strategy?WT.mc_id=AZ-MVP-5002880)\

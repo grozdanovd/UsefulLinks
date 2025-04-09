@@ -1,3 +1,4 @@
+![Azure Network Security Deep Dive](Pic/AzureNetworkSecurityDeepDive.png)
 ## Azure Network Security Deep Dive
 ### Day 1
 [Azure geographies](https://azure.microsoft.com/explore/global-infrastructure/geographies/?WT.mc_id=AZ-MVP-5002880#overview)\

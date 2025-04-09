@@ -4,7 +4,7 @@
 [Azure global infrastructure experience](https://datacenters.microsoft.com/globe/explore?WT.mc_id=AZ-MVP-5002880)\
 [Azure Network Security overview](https://learn.microsoft.com/azure/security/fundamentals/network-overview?WT.mc_id=AZ-MVP-5002880)\
 [Find the Networking product you need](https://azure.microsoft.com/products/category/networking?WT.mc_id=AZ-MVP-5002880)\
-[Zero Trust Model](https://www.microsoft.com/security/business/zero-trustT.mc_id=AZ-MVP-5002880)\
+[Zero Trust Model](https://www.microsoft.com/security/business/zero-trust?WT.mc_id=AZ-MVP-5002880)\
 [What is Zero Trust?](https://learn.microsoft.com/security/zero-trust/zero-trust-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure network security](https://azure.microsoft.com/solutions/network-security/?WT.mc_id=AZ-MVP-5002880)\
 [Overview of Azure Virtual Networks](https://learn.microsoft.com/azure/virtual-network/virtual-networks-overview?WT.mc_id=AZ-MVP-5002880)\

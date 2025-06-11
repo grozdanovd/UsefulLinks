@@ -9,7 +9,7 @@
 [Azure Arc Community Meetup](https://www.youtube.com/watch?v=n1pC3soUI7w )\
 [Azure Arc Jumpstart documentation](https://github.com/microsoft/azure_arc?WT.mc_id=AZ-MVP-5002880)\
 [Create Hyper-V VHD Set files](https://learn.microsoft.com/windows-server/virtualization/hyper-v/manage/create-vhdset-file?WT.mc_id=AZ-MVP-5002880)\
-[Windows Admin Center (WAC)](https://learn.microsoft.com/windows-server/manage/windows-admin-center/overview?WT.mc_id=AZ-MVP-5002880)\
+[Windows Admin Center (WAC)](https://learn.microsoft.com/windows-server/manage/windows-admin-center/overview?WT.mc_id=AZ-MVP-5002880)
 
 ## Day 2
 [Blog: RoCE/RDMA/DCB what is it and how to configure it](https://jtpedersen.com/2017/06/rocerdmadcb-what-is-it-and-how-to-configure-it?WT.mc_id=AZ-MVP-5002880)\

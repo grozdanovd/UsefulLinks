@@ -31,7 +31,9 @@
 [GitHub: Microsoft Software Defined Networking (SDN)]( https://github.com/microsoft/SDN?WT.mc_id=AZ-MVP-5002880)\
 [Datacenter Firewall functionality in Software-Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/datacenter-firewall-overview?WT.mc_id=AZ-MVP-5002880)\
 [Software Load Balancer (SLB) for Software Defined Networking (SDN)](https://learn.microsoft.comazure-stack/hci/concepts/software-load-balancer?WT.mc_id=AZ-MVP-5002880)\
-[Remote Access Service (RAS) Gateway for Software Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/gateway-overview?WT.mc_id=AZ-MVP-5002880)
+[Remote Access Service (RAS) Gateway for Software Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/gateway-overview?WT.mc_id=AZ-MVP-5002880)\
+[Azure Local baseline reference architecture](https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-local-baseline?WT.mc_id=AZ-MVP-5002880)\
+[Azure Local storage switchless architecture](https://learn.microsoft.com/azure/architecture/hybrid/azure-local-switchless?WT.mc_id=AZ-MVP-5002880)
 
 ## Day 3
 [What is virtual desktop infrastructure (VDI)?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-virtual-desktop-infrastructure-vdi?WT.mc_id=AZ-MVP-5002880)\

@@ -35,7 +35,6 @@
 [Delegate app registration permissions in Microsoft Entra ID](https://learn.microsoft.com/entra/identity/role-based-access-control/delegate-app-roles?WT.mc_id=AZ-MVP-5002880)\
 [Administrative Units](https://learn.microsoft.com/entra/identity/role-based-access-control/administrative-units?WT.mc_id=AZ-MVP-5002880)\
 [Privileged roles and permissions in Microsoft Entra ID (preview)](https://learn.microsoft.com/entra/identity/role-based-access-control/privileged-roles-permissions?WT.mc_id=AZ-MVP-5002880)
-
 ### Module 2: Identity Management
 [Identity administration concepts | Explore identity in Microsoft Entra ID | Microsoft Learn module](https://learn.microsoft.com/en-us/training/modules/explore-identity-azure-active-directory/5-explore-why-have-identity?WT.mc_id=AZ-MVP-5002880)\
 [Contrast decentralized identity with central identity systems | Explore identity in Microsoft Entra ID | Microsoft Learn module](https://learn.microsoft.com/en-us/training/modules/explore-identity-azure-active-directory/7-contrast-decentralized-identity-central-identity-systems?WT.mc_id=AZ-MVP-5002880)\
@@ -135,6 +134,8 @@
 [Overview of access reviews Graph APIs](https://learn.microsoft.com/graph/api/resources/accessreviewsv2-overview?view=graph-rest-1.0&WT.mc_id=AZ-MVP-5002880)\
 [Plan, implement, and manage Access Review | Microsoft Learn module](https://learn.microsoft.com/en-us/training/modules/plan-implement-manage-access-review/?WT.mc_id=AZ-MVP-5002880)
 ### Module 4: Implement and manage hybrid identity
+
+### Module 5: Implement Application Management
 
 ### Trainings, Tools, other stuff
 [Microsoft Entra ID Learning Collection](https://learn.microsoft.com/en-us/collections/67w3i7tq46orpz?&sharingId=AZ-MVP-5002880)\

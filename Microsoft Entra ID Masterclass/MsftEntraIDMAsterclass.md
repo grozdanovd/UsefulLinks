@@ -1,4 +1,6 @@
-## Microsoft Entra ID
+# Microsoft Entra ID Masterclass
+
+![Microsoft Entra ID Masterclass](/Pic/MsftEntraIDMasterclass.jpg)
 
 ### Frameworks
 

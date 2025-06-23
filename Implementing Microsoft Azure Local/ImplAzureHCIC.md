@@ -5,6 +5,7 @@
 [Azure Local solution overview](https://learn.microsoft.com/en-us/azure/azure-local/overview?view=azloc-24113&WT.mc_id=AZ-MVP-5002880#azure-stack-hci-features-and-architecture)\
 [Azure Local with low cost hardware (Video)](https://youtu.be/yxlAfS9mh2E)\
 [Azure Local Solutions Catalog (Sign In required)](https://azurelocalsolutions.azure.microsoft.com?WT.mc_id=AZ-MVP-5002880)\
+[Evaluate the deployment readiness of your environment for Azure Local](https://learn.microsoft.com/azure/azure-local/manage/use-environment-checker?view=azloc-2505&WT.mc_id=AZ-MVP-5002880)\
 [Overview of Azure Arc](https://learn.microsoft.com/azure/azure-arc/overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Arc Community Meetup](https://www.youtube.com/watch?v=n1pC3soUI7w )\
 [Azure Arc Jumpstart documentation](https://github.com/microsoft/azure_arc?WT.mc_id=AZ-MVP-5002880)\

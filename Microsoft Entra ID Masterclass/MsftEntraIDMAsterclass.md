@@ -134,10 +134,57 @@
 [Overview of access reviews Graph APIs](https://learn.microsoft.com/graph/api/resources/accessreviewsv2-overview?view=graph-rest-1.0&WT.mc_id=AZ-MVP-5002880)\
 [Plan, implement, and manage Access Review | Microsoft Learn module](https://learn.microsoft.com/en-us/training/modules/plan-implement-manage-access-review/?WT.mc_id=AZ-MVP-5002880)
 ### Module 4: Implement and manage hybrid identity
-
+[Microsoft cloud identity models](https://learn.microsoft.com/microsoft-365/enterprise/deploy-identity-solution-identity-model?view=o365-worldwide&WT.mc_id=AZ-MVP-5002880#microsoft-cloud-identity-models)\
+[Authentication for hybrid identity](https://learn.microsoft.com/en-us/microsoft-365/enterprise/deploy-identity-solution-identity-model?view=o365-worldwide&WT.mc_id=AZ-MVP-5002880#authentication-for-hybrid-identity)\
+[Managed authentication](https://learn.microsoft.com/en-us/microsoft-365/enterprise/deploy-identity-solution-identity-model?view=o365-worldwide&WT.mc_id=AZ-MVP-5002880#managed-authentication)\
+[Federated authentication](https://learn.microsoft.com/en-us/microsoft-365/enterprise/deploy-identity-solution-identity-model?view=o365-worldwide&WT.mc_id=AZ-MVP-5002880#federated-authentication)\
+[Tools used for synchronization](https://learn.microsoft.com/entra/identity/hybrid/sync-tools?WT.mc_id=AZ-MVP-5002880#list-of-tools)\
+[Microsoft Entra Connect V2](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/whatis-azure-ad-connect#microsoft-entra-connect-features)\
+[Microsoft Entra Cloud Sync](https://learn.microsoft.com/entra/identity/hybrid/cloud-sync/what-is-cloud-sync?WT.mc_id=AZ-MVP-5002880)\
+[Comparison between Microsoft Entra Connect and cloud sync](https://learn.microsoft.com/entra/identity/hybrid/cloud-sync/what-is-cloud-sync?WT.mc_id=AZ-MVP-5002880#comparison-between-microsoft-entra-connect-and-cloud-sync)\
+[What is password hash synchronization with Microsoft Entra ID](https://learn.microsoft.com/entra/identity/hybrid/connect/whatis-phs?WT.mc_id=AZ-MVP-5002880)\
+[Detailed description of how password hash synchronization works](https://learn.microsoft.com/entra/identity/hybrid/connect/how-to-connect-password-hash-synchronization?WT.mc_id=AZ-MVP-5002880#detailed-description-of-how-password-hash-synchronization-works)\
+[User sign-in with Microsoft Entra pass-through authentication](https://learn.microsoft.com/entra/identity/hybrid/connect/how-to-connect-pta?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft Entra pass-through authentication security deep dive](https://learn.microsoft.com/entra/identity/hybrid/connect/how-to-connect-pta-security-deep-dive?WT.mc_id=AZ-MVP-5002880#pass-through-authentication-key-security-capabilities)\
+[What is federation with Microsoft Entra ID?](https://learn.microsoft.com/entra/identity/hybrid/connect/whatis-fed?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft Entra Connect: federation topics](https://learn.microsoft.com/entra/identity/hybrid/connect/how-to-connect-fed-whatis?WT.mc_id=AZ-MVP-5002880#microsoft-entra-connect-federation-topics)\
+[Manage and customize AD FS by using Microsoft Entra Connect](https://learn.microsoft.com/entra/identity/hybrid/connect/how-to-connect-fed-management?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft Entra seamless single sign-on](https://learn.microsoft.com/entra/identity/hybrid/connect/how-to-connect-sso-quick-start?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft Entra Connect: Design concepts](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/plan-connect-design-concepts?WT.mc_id=AZ-MVP-5002880)\
+[Topologies for Microsoft Entra Connect](https://learn.microsoft.com/entra/identity/hybrid/connect/plan-connect-topologies?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft Entra Connect component factors](https://learn.microsoft.com/entra/identity/hybrid/connect/plan-connect-performance-factors?WT.mc_id=AZ-MVP-5002880#microsoft-entra-connect-component-factors)\
+[Microsoft Entra Connect Health operations](https://learn.microsoft.com/entra/identity/hybrid/connect/how-to-connect-health-operations?WT.mc_id=AZ-MVP-5002880)\
+[Understanding errors during Microsoft Entra synchronization](https://learn.microsoft.com/entra/identity/hybrid/connect/tshoot-connect-sync-errors?WT.mc_id=AZ-MVP-5002880)\
+[Cloud sync troubleshooting](https://learn.microsoft.com/entra/identity/hybrid/cloud-sync/how-to-troubleshoot?WT.mc_id=AZ-MVP-5002880)
 ### Module 5: Implement Application Management
-
+[How and why applications are added to Microsoft Entra ID](https://learn.microsoft.com/entra/identity-platform/how-applications-are-added?WT.mc_id=AZ-MVP-5002880)\
+[Why do applications integrate with Microsoft Entra ID?](https://learn.microsoft.com/en-us/entra/identity-platform/how-applications-are-added?WT.mc_id=AZ-MVP-5002880#why-do-applications-integrate-with-microsoft-entra-id)\
+[Who has permission to add applications to my Microsoft Entra instance?](https://learn.microsoft.com/entra/identity-platform/how-applications-are-added?WT.mc_id=AZ-MVP-5002880#who-has-permission-to-add-applications-to-my-microsoft-entra-instance)\
+[Tenancy in Microsoft Entra ID](https://learn.microsoft.com/entra/identity-platform/single-and-multi-tenant-apps?WT.mc_id=AZ-MVP-5002880#who-can-sign-in-to-your-app)\
+[Application and service principal objects in Microsoft Entra ID](https://learn.microsoft.com/entra/identity-platform/app-objects-and-service-principals?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft identity platform and OAuth 2.0 authorization code grant](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-client-creds-grant-flow?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft identity platform and OAuth 2.0 authorization code flow](https://learn.microsoft.com/entra/identity-platform/v2-oauth2-auth-code-flow?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft identity platform and the OAuth 2.0 client credentials flow](https://learn.microsoft.com/entra/identity-platform/v2-oauth2-client-creds-grant-flow?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft identity platform and the OAuth 2.0 device authorization grant flow](https://learn.microsoft.com/entra/identity-platform/v2-oauth2-device-code?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft identity platform and OAuth 2.0 On-Behalf-Of flow](https://learn.microsoft.com/entra/identity-platform/v2-oauth2-on-behalf-of-flow?WT.mc_id=AZ-MVP-5002880)\
+[OpenID Connect on the Microsoft identity platform](https://learn.microsoft.com/entra/identity-platform/v2-protocols-oidc?WT.mc_id=AZ-MVP-5002880)\
+[OpenID Connect scopes](https://learn.microsoft.com/entra/identity-platform/scopes-oidc?WT.mc_id=AZ-MVP-5002880#openid-connect-scopes)\
+[Single sign-on SAML protocol](https://learn.microsoft.com/entra/identity-platform/single-sign-on-saml-protocol?WT.mc_id=AZ-MVP-5002880)\
+[Single Sign-Out SAML Protocol](https://learn.microsoft.com/entra/identity-platform/single-sign-out-saml-protocol?WT.mc_id=AZ-MVP-5002880)\
+[Configurable token lifetimes in the Microsoft identity platform (preview)](https://learn.microsoft.com/entra/identity-platform/configurable-token-lifetimes?WT.mc_id=AZ-MVP-5002880)\
+[Configure how users consent to applications](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?WT.mc_id=AZ-MVP-5002880)\
+[Overview of permissions and consent in the Microsoft identity platform](https://learn.microsoft.com/entra/identity-platform/permissions-consent-overview?WT.mc_id=AZ-MVP-5002880)\
+[Understanding delegated access](https://learn.microsoft.com/entra/identity-platform/delegated-access-primer?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft identity platform app-only access scenario](https://learn.microsoft.com/entra/identity-platform/app-only-access-primer?WT.mc_id=AZ-MVP-5002880#when-should-i-use-application-only-access)\
+[Integrate applications with Microsoft Entra ID and the Microsoft identity platform](https://learn.microsoft.com/security/zero-trust/develop/integrate-apps-microsoft-identity-platform?WT.mc_id=AZ-MVP-5002880)\
+[Using Microsoft Entra application proxy to publish on-premises apps for remote users](https://learn.microsoft.com/entra/identity/app-proxy/overview-what-is-app-proxy?WT.mc_id=AZ-MVP-5002880)\
+[Overview of how application proxy works](https://learn.microsoft.com/en-us/entra/identity/app-proxy/overview-what-is-app-proxy?WT.mc_id=AZ-MVP-5002880#overview-of-how-application-proxy-works)\
+[What is app provisioning in Microsoft Entra ID?](https://learn.microsoft.com/entra/identity/app-provisioning/user-provisioning?WT.mc_id=AZ-MVP-5002880)\
+[Manual vs. automatic provisioning](https://learn.microsoft.com/entra/identity/app-provisioning/user-provisioning?WT.mc_id=AZ-MVP-5002880#manual-vs-automatic-provisioning)\
+[Develop and plan provisioning for a SCIM endpoint in Microsoft Entra ID](https://learn.microsoft.com/entra/identity/app-provisioning/use-scim-to-provision-users-and-groups?WT.mc_id=AZ-MVP-5002880)
 ### Trainings, Tools, other stuff
 [Microsoft Entra ID Learning Collection](https://learn.microsoft.com/en-us/collections/67w3i7tq46orpz?&sharingId=AZ-MVP-5002880)\
 [Microsoft Graph](https://graph.microsoft.com)\
-[Workbook: Impact analysis of risk-based access policies](https://learn.microsoft.com/entra/id-protection/workbook-risk-based-policy-impact?WT.mc_id=AZ-MVP-5002880)
+[Workbook: Impact analysis of risk-based access policies](https://learn.microsoft.com/entra/id-protection/workbook-risk-based-policy-impact?WT.mc_id=AZ-MVP-5002880)\
+[Microsoft identity platform code samples for authentication and authorization](https://learn.microsoft.com/entra/identity-platform/sample-v2-code?WT.mc_id=AZ-MVP-5002880)\
+Microsoft identity platform best practices and recommendations(https://learn.microsoft.com/entra/identity-platform/identity-platform-integration-checklist?WT.mc_id=AZ-MVP-5002880)

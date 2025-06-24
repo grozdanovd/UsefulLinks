@@ -184,6 +184,7 @@
 [Develop and plan provisioning for a SCIM endpoint in Microsoft Entra ID](https://learn.microsoft.com/entra/identity/app-provisioning/use-scim-to-provision-users-and-groups?WT.mc_id=AZ-MVP-5002880)
 ### Trainings, Tools, other stuff
 [Microsoft Entra ID Learning Collection](https://learn.microsoft.com/en-us/collections/67w3i7tq46orpz?&sharingId=AZ-MVP-5002880)\
+[Hosted lab instructions for SC-300: Identity and Access Administrator](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Graph](https://graph.microsoft.com)\
 [Workbook: Impact analysis of risk-based access policies](https://learn.microsoft.com/entra/id-protection/workbook-risk-based-policy-impact?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft identity platform code samples for authentication and authorization](https://learn.microsoft.com/entra/identity-platform/sample-v2-code?WT.mc_id=AZ-MVP-5002880)\

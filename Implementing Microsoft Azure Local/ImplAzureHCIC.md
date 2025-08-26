@@ -1,4 +1,4 @@
-# Implementing Microsoft Azure Local (Azure Stack HCI)
+# Implementing Microsoft Azure Local
 
 ## Day 1
 [Introducing Azure Local: cloud infrastructure for distributed locations enabled by Azure Arc](https://techcommunity.microsoft.com/blog/azurearcblog/introducing-azure-local-cloud-infrastructure-for-distributed-locations-enabled-b/4296017?WT.mc_id=AZ-MVP-5002880)\

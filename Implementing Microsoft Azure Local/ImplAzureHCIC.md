@@ -28,10 +28,10 @@
 [GitHub: PrivateCloud.DiagnosticInfo](https://aka.ms/privatecloud-diagnostic-info?WT.mc_id=AZ-MVP-5002880)\
 [GitHub: DiskSpd - storage performance tool](https://github.com/Microsoft/diskspd?WT.mc_id=AZ-MVP-5002880)\
 [Physical network requirements for Azure Local](https://learn.microsoft.com/azure-stack/hci/concepts/physical-network-requirements?WT.mc_id=AZ-MVP-5002880?tabs=20-21H2%2C20-21H2reqs)\
-[Software Defined Networking (SDN) in Azure Stack HCI and Windows Server)](https://learn.microsoft.com/azure-stack/hci/concepts/software-defined-networking?WT.mc_id=AZ-MVP-5002880)\
+[Software Defined Networking (SDN) in Azure Stack Local and Windows Server](https://learn.microsoft.com/en-us/previous-versions/azure/azure-local/concepts/software-defined-networking?WT.mc_id=AZ-MVP-5002880)\
 [GitHub: Microsoft Software Defined Networking (SDN)]( https://github.com/microsoft/SDN?WT.mc_id=AZ-MVP-5002880)\
 [Datacenter Firewall functionality in Software-Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/datacenter-firewall-overview?WT.mc_id=AZ-MVP-5002880)\
-[Software Load Balancer (SLB) for Software Defined Networking (SDN)](https://learn.microsoft.comazure-stack/hci/concepts/software-load-balancer?WT.mc_id=AZ-MVP-5002880)\
+[Software Load Balancer (SLB) for Software Defined Networking (SDN)](https://learn.microsoft.com/en-us/azure/azure-local/concepts/software-load-balancer?view=azloc-2507&WT.mc_id=AZ-MVP-5002880)\
 [Remote Access Service (RAS) Gateway for Software Defined Networking (SDN)](https://learn.microsoft.com/azure-stack/hci/concepts/gateway-overview?WT.mc_id=AZ-MVP-5002880)\
 [Azure Local baseline reference architecture](https://learn.microsoft.com/en-us/azure/architecture/hybrid/azure-local-baseline?WT.mc_id=AZ-MVP-5002880)\
 [Azure Local storage switchless architecture](https://learn.microsoft.com/azure/architecture/hybrid/azure-local-switchless?WT.mc_id=AZ-MVP-5002880)

@@ -190,5 +190,5 @@
 [Workbook: Impact analysis of risk-based access policies](https://learn.microsoft.com/entra/id-protection/workbook-risk-based-policy-impact?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft identity platform code samples for authentication and authorization](https://learn.microsoft.com/entra/identity-platform/sample-v2-code?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft identity platform best practices and recommendations](https://learn.microsoft.com/entra/identity-platform/identity-platform-integration-checklist?WT.mc_id=AZ-MVP-5002880)\
-[Microsoft Entra Sign-in URL Builder](https://signin.merill.net/)\ 
+[Microsoft Entra Sign-in URL Builder](https://signin.merill.net/)\
 [Microsoft Zero Trust workshop](https://microsoft.github.io/zerotrustassessment/?WT.mc_id=AZ-MVP-5002880)

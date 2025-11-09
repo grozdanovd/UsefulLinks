@@ -46,6 +46,7 @@
 [Microsoft Entra registered devices](https://learn.microsoft.com/entra/identity/devices/concept-device-registration?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Entra joined devices](https://learn.microsoft.com/entra/identity/devices/concept-directory-join?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Entra hybrid joined devices](https://learn.microsoft.com/entra/identity/devices/concept-hybrid-join?WT.mc_id=AZ-MVP-5002880)\
+[How it works: Device registration flows](https://learn.microsoft.com/en-us/entra/identity/devices/device-registration-how-it-works?WT.mc_id=AZ-MVP-5002880)
 [What is group-based licensing in Microsoft Entra ID?](https://learn.microsoft.com/entra/fundamentals/concept-group-based-licensing?WT.mc_id=AZ-MVP-5002880)\
 [What are custom security attributes in Microsoft Entra ID?](https://learn.microsoft.com/entra/fundamentals/custom-security-attributes-overview?WT.mc_id=AZ-MVP-5002880)\
 [Workforce and external tenant configurations in Microsoft Entra External ID](https://learn.microsoft.com/entra/external-id/tenant-configurations?WT.mc_id=AZ-MVP-5002880)\

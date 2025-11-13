@@ -191,4 +191,6 @@
 [Microsoft identity platform code samples for authentication and authorization](https://learn.microsoft.com/entra/identity-platform/sample-v2-code?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft identity platform best practices and recommendations](https://learn.microsoft.com/entra/identity-platform/identity-platform-integration-checklist?WT.mc_id=AZ-MVP-5002880)\
 [Microsoft Entra Sign-in URL Builder](https://signin.merill.net/)\
-[Microsoft Zero Trust workshop](https://microsoft.github.io/zerotrustassessment/?WT.mc_id=AZ-MVP-5002880)
+[Microsoft Zero Trust workshop](https://microsoft.github.io/zerotrustassessment/?WT.mc_id=AZ-MVP-5002880)\
+[Maester - Your Microsoft Security test automation framework!](https://maester.dev/)\
+[Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/about.html)

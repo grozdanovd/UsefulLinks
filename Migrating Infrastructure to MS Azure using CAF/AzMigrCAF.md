@@ -71,7 +71,7 @@
 
 ### Trainings, Practice Assessments, video tutorials/sessions/events
 [Training: Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure](https://learn.microsoft.com/training/paths/cloud-adoption-framework?WT.mc_id=AZ-MVP-5002880)\
-[Training: Migrate SQL Server workloads to Azure SQL](https://learn.microsoft.comtraining/paths/migrate-sql-workloads-azure?WT.mc_id=AZ-MVP-5002880)\
+[Training: Migrate SQL Server workloads to Azure SQL](https://learn.microsoft.com/training/paths/migrate-sql-workloads-azure?WT.mc_id=AZ-MVP-5002880)\
 [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications#availability?WT.\mc_id=AZ-MVP-5002880)\
 [Three areas of focus to achieve Azure operational efficiency (Azure Spring Clean 2024 session)](https://www.youtube.com/watch?v=chfhIdXKrKg)\
 [Fundamentals of Bicep | Microsoft Learn training](https://learn.microsoft.com/training/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5002880)\

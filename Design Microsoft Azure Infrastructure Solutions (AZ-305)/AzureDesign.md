@@ -2,29 +2,29 @@
 
 ## Contents
 
-[Course Introduction](#course-introduction) (8)
+[Course Introduction](#course-introduction)
 
-[Module 1: Governance](#module-1-governance) (27)
+[Module 1: Governance](#module-1-governance)
 
-[Module 2: Compute](#module-2-compute) (39)
+[Module 2: Compute](#module-2-compute)
 
-[Module 3: Non-relational storage](#module-3-non-relational-storage) (38)
+[Module 3: Non-relational storage](#module-3-non-relational-storage)
 
-[Module 4: RDBS](#module-4-rdbs) (40)
+[Module 4: RDBS](#module-4-rdbs)
 
-[Module 5: Data integration](#module-5-data-integration) (27)
+[Module 5: Data integration](#module-5-data-integration)
 
-[Module 6: App architecture](#module-6-app-architecture) (42)
+[Module 6: App architecture](#module-6-app-architecture)
 
-[Module 7: Identity](#module-7-identity) (24)
+[Module 7: Identity](#module-7-identity)
 
-[Module 8: Monitor/Log](#module-8-monitorlog) (14)
+[Module 8: Monitor/Log](#module-8-monitorlog)
 
-[Module 9: Network](#module-9-network) (38)
+[Module 9: Network](#module-9-network)
 
-[Module 10: BCDR](#module-10-bcdr) (34)
+[Module 10: BCDR](#module-10-bcdr)
 
-[Module 11: Migrate](#module-11-migrate) (18)
+[Module 11: Migrate](#module-11-migrate)
 
 ## Course Introduction
 
